@@ -1,0 +1,826 @@
+[
+[
+"New Year's Day",
+"🎆",
+"hol",
+"01-01"
+],
+[
+"National Youth Day",
+"🧑",
+"obs",
+"01-12",
+"Swami Vivekananda Jayanti"
+],
+[
+"Lohri",
+"🔥",
+"fest",
+"01-13"
+],
+[
+"Makar Sankranti / Pongal",
+"🪁",
+"fest",
+"01-14",
+"Some years on 15 Jan"
+],
+[
+"Army Day",
+"🎖️",
+"obs",
+"01-15"
+],
+[
+"National Girl Child Day",
+"👧",
+"obs",
+"01-24"
+],
+[
+"Netaji Subhas Chandra Bose Jayanti",
+"🇮🇳",
+"obs",
+"01-23"
+],
+[
+"National Voters' Day",
+"🗳️",
+"obs",
+"01-25"
+],
+[
+"Republic Day",
+"🇮🇳",
+"hol",
+"01-26"
+],
+[
+"Martyrs' Day",
+"🕊️",
+"obs",
+"01-30",
+"Mahatma Gandhi Punyatithi"
+],
+[
+"Quadrantid Meteor Shower",
+"☄️",
+"sky",
+"01-03",
+"Peak 3-4 Jan, best before dawn"
+],
+[
+"Valentine's Day",
+"❤️",
+"obs",
+"02-14"
+],
+[
+"Shivaji Jayanti",
+"🚩",
+"fest",
+"02-19"
+],
+[
+"National Science Day",
+"🔬",
+"obs",
+"02-28"
+],
+[
+"International Women's Day",
+"👩",
+"obs",
+"03-08"
+],
+[
+"World Water Day",
+"💧",
+"obs",
+"03-22"
+],
+[
+"Shaheed Diwas",
+"🇮🇳",
+"obs",
+"03-23",
+"Bhagat Singh, Sukhdev and Rajguru"
+],
+[
+"World Health Day",
+"🩺",
+"obs",
+"04-07"
+],
+[
+"Baisakhi / Vaisakhi",
+"🌾",
+"fest",
+"04-14",
+"Sometimes 13 Apr"
+],
+[
+"Tamil New Year (Puthandu) / Vishu",
+"🌼",
+"fest",
+"04-14",
+"Vishu can fall on 14 or 15 Apr"
+],
+[
+"Rongali Bihu",
+"💃",
+"fest",
+"04-14",
+"Assam new year, often 14-15 Apr"
+],
+[
+"Ambedkar Jayanti",
+"💙",
+"hol",
+"04-14"
+],
+[
+"Pohela Boishakh",
+"🎊",
+"fest",
+"04-15",
+"Bengali New Year"
+],
+[
+"Earth Day",
+"🌍",
+"obs",
+"04-22"
+],
+[
+"Lyrid Meteor Shower",
+"☄️",
+"sky",
+"04-22",
+"Peak 22-23 Apr"
+],
+[
+"World Book Day",
+"📚",
+"obs",
+"04-23"
+],
+[
+"Labour Day / Maharashtra Day",
+"👷",
+"hol",
+"05-01"
+],
+[
+"Eta Aquarid Meteor Shower",
+"☄️",
+"sky",
+"05-06",
+"Peak 5-6 May; Halley's comet debris"
+],
+[
+"Mother's Day",
+"💐",
+"obs",
+"R:5-7-2",
+"Second Sunday of May"
+],
+[
+"National Technology Day",
+"🛰️",
+"obs",
+"05-11"
+],
+[
+"International Nurses Day",
+"🩺",
+"obs",
+"05-12"
+],
+[
+"World Environment Day",
+"🌳",
+"obs",
+"06-05"
+],
+[
+"World Blood Donor Day",
+"🩸",
+"obs",
+"06-14"
+],
+[
+"Father's Day",
+"👨",
+"obs",
+"R:6-7-3",
+"Third Sunday of June"
+],
+[
+"International Yoga Day",
+"🧘",
+"obs",
+"06-21"
+],
+[
+"National Doctors' Day",
+"🩺",
+"obs",
+"07-01"
+],
+[
+"Kargil Vijay Diwas",
+"🇮🇳",
+"obs",
+"07-26"
+],
+[
+"Friendship Day",
+"🤝",
+"obs",
+"R:8-7-1",
+"First Sunday of August"
+],
+[
+"Quit India Day",
+"🇮🇳",
+"obs",
+"08-09"
+],
+[
+"Perseid Meteor Shower",
+"☄️",
+"sky",
+"08-12",
+"Peak 12-13 Aug; best after midnight"
+],
+[
+"Independence Day",
+"🇮🇳",
+"hol",
+"08-15"
+],
+[
+"National Sports Day",
+"🏅",
+"obs",
+"08-29"
+],
+[
+"Teachers' Day",
+"🍎",
+"obs",
+"09-05"
+],
+[
+"Hindi Diwas",
+"📖",
+"obs",
+"09-14"
+],
+[
+"Engineers' Day",
+"🛠️",
+"obs",
+"09-15"
+],
+[
+"Vishwakarma Puja",
+"🔧",
+"fest",
+"09-17"
+],
+[
+"World Heart Day",
+"❤️",
+"obs",
+"09-29"
+],
+[
+"Gandhi Jayanti",
+"🕊️",
+"hol",
+"10-02"
+],
+[
+"Indian Air Force Day",
+"✈️",
+"obs",
+"10-08"
+],
+[
+"APJ Abdul Kalam Jayanti",
+"🚀",
+"obs",
+"10-15"
+],
+[
+"Orionid Meteor Shower",
+"☄️",
+"sky",
+"10-21",
+"Peak 21-22 Oct"
+],
+[
+"National Unity Day",
+"🇮🇳",
+"obs",
+"10-31",
+"Sardar Patel Jayanti"
+],
+[
+"Kannada Rajyotsava",
+"🎗️",
+"obs",
+"11-01"
+],
+[
+"Children's Day",
+"🎈",
+"obs",
+"11-14",
+"Pandit Nehru's birthday"
+],
+[
+"Janjatiya Gaurav Divas",
+"🏹",
+"obs",
+"11-15",
+"Birsa Munda Jayanti"
+],
+[
+"Leonid Meteor Shower",
+"☄️",
+"sky",
+"11-17",
+"Peak 17-18 Nov"
+],
+[
+"Constitution Day",
+"📜",
+"obs",
+"11-26"
+],
+[
+"Navy Day",
+"⚓",
+"obs",
+"12-04"
+],
+[
+"Armed Forces Flag Day",
+"🎖️",
+"obs",
+"12-07"
+],
+[
+"Geminid Meteor Shower",
+"☄️",
+"sky",
+"12-14",
+"Peak 13-14 Dec; one of the best showers"
+],
+[
+"National Mathematics Day",
+"🔢",
+"obs",
+"12-22",
+"Ramanujan Jayanti"
+],
+[
+"Christmas",
+"🎄",
+"hol",
+"12-25"
+],
+[
+"Good Governance Day",
+"🏛️",
+"obs",
+"12-25"
+],
+[
+"New Year's Eve",
+"🥳",
+"obs",
+"12-31"
+],
+[
+"Basant Panchami",
+"🌼",
+"fest",
+"2026-01-23"
+],
+[
+"Guru Ravidas Jayanti",
+"🙏",
+"fest",
+"2026-02-01"
+],
+[
+"Dayananda Saraswati Jayanti",
+"🙏",
+"fest",
+"2026-02-12"
+],
+[
+"Maha Shivaratri",
+"🔱",
+"fest",
+"2026-02-15"
+],
+[
+"Losar (Tibetan New Year)",
+"🎎",
+"fest",
+"2026-02-18"
+],
+[
+"Total Lunar Eclipse (Chandra Grahan)",
+"🌕",
+"sky",
+"2026-03-03",
+"Partly visible at moonrise in eastern India"
+],
+[
+"Holika Dahan",
+"🔥",
+"fest",
+"2026-03-03"
+],
+[
+"Holi",
+"🎨",
+"hol",
+"2026-03-04"
+],
+[
+"Ugadi / Gudi Padwa / Cheti Chand",
+"🌸",
+"fest",
+"2026-03-19"
+],
+[
+"Chaitra Navratri begins",
+"🪔",
+"fest",
+"2026-03-19"
+],
+[
+"Eid-ul-Fitr",
+"🌙",
+"hol",
+"2026-03-21",
+"Moon-sighting dependent"
+],
+[
+"Ram Navami",
+"🏹",
+"hol",
+"2026-03-26"
+],
+[
+"Mahavir Jayanti",
+"🙏",
+"hol",
+"2026-03-31"
+],
+[
+"Hanuman Jayanti",
+"🐒",
+"fest",
+"2026-04-02"
+],
+[
+"Good Friday",
+"✝️",
+"hol",
+"2026-04-03"
+],
+[
+"Easter",
+"🐣",
+"fest",
+"2026-04-05"
+],
+[
+"Buddha Purnima",
+"☸️",
+"hol",
+"2026-05-01"
+],
+[
+"Eid al-Adha (Bakrid)",
+"🐑",
+"hol",
+"2026-05-27",
+"Moon-sighting dependent"
+],
+[
+"Muharram",
+"🌙",
+"hol",
+"2026-06-26",
+"Moon-sighting dependent"
+],
+[
+"Rath Yatra",
+"🛕",
+"fest",
+"2026-07-16"
+],
+[
+"Guru Purnima",
+"🙏",
+"fest",
+"2026-07-29"
+],
+[
+"Total Solar Eclipse (Surya Grahan)",
+"🌑",
+"sky",
+"2026-08-12",
+"Not visible in India; seen from Spain and Iceland"
+],
+[
+"Onam (Thiruvonam)",
+"🌼",
+"fest",
+"2026-08-26"
+],
+[
+"Milad-un-Nabi",
+"🌙",
+"hol",
+"2026-08-26",
+"Moon-sighting dependent"
+],
+[
+"Raksha Bandhan",
+"🧵",
+"fest",
+"2026-08-28"
+],
+[
+"Varamahalakshmi Vratam",
+"🪷",
+"fest",
+"2026-08-28"
+],
+[
+"Partial Lunar Eclipse (Chandra Grahan)",
+"🌕",
+"sky",
+"2026-08-28",
+"Not visible in India"
+],
+[
+"Janmashtami",
+"🦚",
+"hol",
+"2026-09-04"
+],
+[
+"Ganesh Chaturthi",
+"🐘",
+"fest",
+"2026-09-14"
+],
+[
+"Saturn at Opposition",
+"🪐",
+"sky",
+"2026-10-04",
+"Brightest and biggest of the year; visible all night"
+],
+[
+"Sharad Navratri begins",
+"🪔",
+"fest",
+"2026-10-11"
+],
+[
+"Dussehra (Vijayadashami)",
+"🏹",
+"hol",
+"2026-10-20"
+],
+[
+"Valmiki Jayanti",
+"🙏",
+"fest",
+"2026-10-26",
+"Ashwin Purnima"
+],
+[
+"Karva Chauth",
+"🌙",
+"fest",
+"2026-10-29"
+],
+[
+"Diwali",
+"🪔",
+"hol",
+"2026-11-08"
+],
+[
+"Bhai Dooj",
+"👫",
+"fest",
+"2026-11-11"
+],
+[
+"Mars near Jupiter",
+"🪐",
+"sky",
+"2026-11-16",
+"Close pairing in the pre-dawn sky"
+],
+[
+"Guru Nanak Jayanti",
+"🙏",
+"hol",
+"2026-11-24"
+],
+[
+"Dev Diwali (Kartik Purnima)",
+"🪔",
+"fest",
+"2026-11-24"
+],
+[
+"Annular Solar Eclipse (Surya Grahan)",
+"🌑",
+"sky",
+"2027-02-06",
+"Path over South America and Africa"
+],
+[
+"Jupiter at Opposition",
+"🪐",
+"sky",
+"2027-02-11",
+"Brightest of the year"
+],
+[
+"Mars at Opposition",
+"🪐",
+"sky",
+"2027-02-19",
+"Closest and brightest in 2027"
+],
+[
+"Penumbral Lunar Eclipse",
+"🌕",
+"sky",
+"2027-02-20",
+"Faint shading; check local visibility"
+],
+[
+"Eid-ul-Fitr",
+"🌙",
+"hol",
+"2027-03-10",
+"Moon-sighting dependent"
+],
+[
+"Holika Dahan",
+"🔥",
+"fest",
+"2027-03-22"
+],
+[
+"Holi",
+"🎨",
+"hol",
+"2027-03-23"
+],
+[
+"Good Friday",
+"✝️",
+"hol",
+"2027-03-26"
+],
+[
+"Easter",
+"🐣",
+"fest",
+"2027-03-28"
+],
+[
+"Ram Navami",
+"🏹",
+"hol",
+"2027-04-15"
+],
+[
+"Mahavir Jayanti",
+"🙏",
+"hol",
+"2027-04-19"
+],
+[
+"Eid al-Adha (Bakrid)",
+"🐑",
+"hol",
+"2027-05-17",
+"Moon-sighting dependent"
+],
+[
+"Buddha Purnima",
+"☸️",
+"hol",
+"2027-05-20"
+],
+[
+"Muharram",
+"🌙",
+"hol",
+"2027-06-16",
+"Moon-sighting dependent"
+],
+[
+"Guru Purnima",
+"🙏",
+"fest",
+"2027-07-18"
+],
+[
+"Penumbral Lunar Eclipse",
+"🌕",
+"sky",
+"2027-07-18",
+"Faint shading; check local visibility"
+],
+[
+"Total Solar Eclipse (Surya Grahan)",
+"🌑",
+"sky",
+"2027-08-02",
+"Path over Spain, North Africa and the Middle East; check local visibility"
+],
+[
+"Milad-un-Nabi",
+"🌙",
+"hol",
+"2027-08-15",
+"Moon-sighting dependent"
+],
+[
+"Penumbral Lunar Eclipse",
+"🌕",
+"sky",
+"2027-08-17",
+"Faint shading; check local visibility"
+],
+[
+"Janmashtami",
+"🦚",
+"hol",
+"2027-08-25"
+],
+[
+"Maha Saptami",
+"🪔",
+"fest",
+"2027-10-06"
+],
+[
+"Maha Ashtami",
+"🪔",
+"fest",
+"2027-10-07"
+],
+[
+"Maha Navami",
+"🪔",
+"fest",
+"2027-10-08"
+],
+[
+"Dussehra (Vijayadashami)",
+"🏹",
+"hol",
+"2027-10-09"
+],
+[
+"Saturn at Opposition",
+"🪐",
+"sky",
+"2027-10-18",
+"Visible all night"
+],
+[
+"Diwali",
+"🪔",
+"hol",
+"2027-10-29"
+],
+[
+"Guru Nanak Jayanti",
+"🙏",
+"hol",
+"2027-11-14"
+]
+]

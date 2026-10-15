@@ -1,0 +1,3082 @@
+[
+{
+"q": "What will you do with today?",
+"c": "Drink water and take a 10-minute walk."
+},
+{
+"q": "What would change if you made more time for walking outdoors?",
+"c": "Make time for walking outdoors today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for reading a book?",
+"c": "Make time for reading a book today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for stretching your body?",
+"c": "Make time for stretching your body today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for writing in a journal?",
+"c": "Make time for writing in a journal today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for learning a new language?",
+"c": "Make time for learning a new language today, even for just ten minutes."
+},
+{
+"q": "What would you do if you couldn't fail?",
+"c": "Read for 15 minutes."
+},
+{
+"q": "What would change if you made more time for practising a musical instrument?",
+"c": "Make time for practising a musical instrument today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for meditating quietly?",
+"c": "Make time for meditating quietly today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for cooking a healthy meal?",
+"c": "Make time for cooking a healthy meal today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for drawing or doodling?",
+"c": "Make time for drawing or doodling today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for studying a new skill?",
+"c": "Make time for studying a new skill today, even for just ten minutes."
+},
+{
+"q": "What if you had to live without social media for 30 days?",
+"c": "Keep your phone away for 30 minutes."
+},
+{
+"q": "What would change if you made more time for decluttering one space?",
+"c": "Make time for decluttering one space today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for exercising?",
+"c": "Make time for exercising today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for listening to an educational podcast?",
+"c": "Make time for listening to an educational podcast today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for reviewing your spending?",
+"c": "Make time for reviewing your spending today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for learning to code?",
+"c": "Make time for learning to code today, even for just ten minutes."
+},
+{
+"q": "What if you could restart today?",
+"c": "Write three things you're grateful for."
+},
+{
+"q": "What would change if you made more time for gardening or caring for plants?",
+"c": "Make time for gardening or caring for plants today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for calling a friend?",
+"c": "Make time for calling a friend today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for calling a family member?",
+"c": "Make time for calling a family member today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for volunteering?",
+"c": "Make time for volunteering today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for dancing?",
+"c": "Make time for dancing today, even for just ten minutes."
+},
+{
+"q": "Would you rather know your future or change one thing from your past?",
+"c": "Call someone you haven't spoken to recently."
+},
+{
+"q": "What would change if you made more time for swimming?",
+"c": "Make time for swimming today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for cycling?",
+"c": "Make time for cycling today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for singing?",
+"c": "Make time for singing today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for taking photographs?",
+"c": "Make time for taking photographs today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for planning your week?",
+"c": "Make time for planning your week today, even for just ten minutes."
+},
+{
+"q": "What is one small habit that would change your year?",
+"c": "Learn one new thing and note it down."
+},
+{
+"q": "What would change if you made more time for practising gratitude?",
+"c": "Make time for practising gratitude today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for cleaning one small area?",
+"c": "Make time for cleaning one small area today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for learning first aid?",
+"c": "Make time for learning first aid today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for practising public speaking?",
+"c": "Make time for practising public speaking today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for writing a letter?",
+"c": "Make time for writing a letter today, even for just ten minutes."
+},
+{
+"q": "What if you had one year to master one skill?",
+"c": "Spend 15 minutes practising a skill."
+},
+{
+"q": "What would change if you made more time for sketching your ideas?",
+"c": "Make time for sketching your ideas today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for learning about personal finance?",
+"c": "Make time for learning about personal finance today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for cooking a new recipe?",
+"c": "Make time for cooking a new recipe today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for walking without your phone?",
+"c": "Make time for walking without your phone today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for deep breathing?",
+"c": "Make time for deep breathing today, even for just ten minutes."
+},
+{
+"q": "What are you avoiding, and what would happen if you started?",
+"c": "Do the smallest first step of a task you've postponed."
+},
+{
+"q": "What would change if you made more time for journaling about your goals?",
+"c": "Make time for journaling about your goals today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for reading about history?",
+"c": "Make time for reading about history today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for solving a puzzle?",
+"c": "Make time for solving a puzzle today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for playing a board game?",
+"c": "Make time for playing a board game today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for organising your photos?",
+"c": "Make time for organising your photos today, even for just ten minutes."
+},
+{
+"q": "Who deserves a thank-you from you?",
+"c": "Send a thank-you message to someone."
+},
+{
+"q": "What would change if you made more time for backing up your files?",
+"c": "Make time for backing up your files today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for cleaning your inbox?",
+"c": "Make time for cleaning your inbox today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for updating your resume?",
+"c": "Make time for updating your resume today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for learning a new software tool?",
+"c": "Make time for learning a new software tool today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for practising handwriting?",
+"c": "Make time for practising handwriting today, even for just ten minutes."
+},
+{
+"q": "What gives you energy, and what drains it?",
+"c": "Tidy one small space for 10 minutes."
+},
+{
+"q": "What would change if you made more time for writing a short story?",
+"c": "Make time for writing a short story today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for reading a poem?",
+"c": "Make time for reading a poem today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for visiting a park?",
+"c": "Make time for visiting a park today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for watching the sunset?",
+"c": "Make time for watching the sunset today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for stargazing?",
+"c": "Make time for stargazing today, even for just ten minutes."
+},
+{
+"q": "What would a calmer version of today look like?",
+"c": "Take five slow breaths, three times today."
+},
+{
+"q": "What would change if you made more time for bird watching?",
+"c": "Make time for bird watching today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for cooking for someone else?",
+"c": "Make time for cooking for someone else today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for baking something simple?",
+"c": "Make time for baking something simple today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for preparing tomorrow's plan?",
+"c": "Make time for preparing tomorrow's plan today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for tidying your desk?",
+"c": "Make time for tidying your desk today, even for just ten minutes."
+},
+{
+"q": "What is something you could forgive yourself for?",
+"c": "Write one kind sentence to yourself."
+},
+{
+"q": "What would change if you made more time for sorting your clothes?",
+"c": "Make time for sorting your clothes today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for watering your plants?",
+"c": "Make time for watering your plants today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for playing with a pet?",
+"c": "Make time for playing with a pet today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for doing yoga?",
+"c": "Make time for doing yoga today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for doing a short workout?",
+"c": "Make time for doing a short workout today, even for just ten minutes."
+},
+{
+"q": "What would you teach if you had to give a talk tomorrow?",
+"c": "Explain something you know to another person."
+},
+{
+"q": "What would change if you made more time for practising balance exercises?",
+"c": "Make time for practising balance exercises today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for preparing a healthy snack?",
+"c": "Make time for preparing a healthy snack today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for winding down before bed?",
+"c": "Make time for winding down before bed today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for writing down three wins?",
+"c": "Make time for writing down three wins today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for reviewing your goals?",
+"c": "Make time for reviewing your goals today, even for just ten minutes."
+},
+{
+"q": "What are you curious about right now?",
+"c": "Look up one thing you've wondered about."
+},
+{
+"q": "What would change if you made more time for planning a savings target?",
+"c": "Make time for planning a savings target today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for comparing prices before you buy?",
+"c": "Make time for comparing prices before you buy today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for learning a keyboard shortcut?",
+"c": "Make time for learning a keyboard shortcut today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for reading an article in depth?",
+"c": "Make time for reading an article in depth today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for learning a new word?",
+"c": "Make time for learning a new word today, even for just ten minutes."
+},
+{
+"q": "What does enough look like for you?",
+"c": "Note what you spent today and what was worth it."
+},
+{
+"q": "What would change if you made more time for memorising a poem?",
+"c": "Make time for memorising a poem today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for practising mental maths?",
+"c": "Make time for practising mental maths today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for playing chess?",
+"c": "Make time for playing chess today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for building something with your hands?",
+"c": "Make time for building something with your hands today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for repairing something small?",
+"c": "Make time for repairing something small today, even for just ten minutes."
+},
+{
+"q": "Which relationship deserves more of your time?",
+"c": "Plan a call or meet-up this week."
+},
+{
+"q": "What would change if you made more time for learning to knit or craft?",
+"c": "Make time for learning to knit or craft today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for painting?",
+"c": "Make time for painting today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for making a playlist?",
+"c": "Make time for making a playlist today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for exploring a new neighbourhood?",
+"c": "Make time for exploring a new neighbourhood today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for visiting a library?",
+"c": "Make time for visiting a library today, even for just ten minutes."
+},
+{
+"q": "What did you learn from your last mistake?",
+"c": "Write it down in one sentence."
+},
+{
+"q": "What would change if you made more time for meeting a neighbour?",
+"c": "Make time for meeting a neighbour today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for helping a colleague?",
+"c": "Make time for helping a colleague today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for thanking someone?",
+"c": "Make time for thanking someone today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for giving kind feedback?",
+"c": "Make time for giving kind feedback today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for listening without interrupting?",
+"c": "Make time for listening without interrupting today, even for just ten minutes."
+},
+{
+"q": "What would you do with an extra free hour today?",
+"c": "Spend 30 minutes without screens."
+},
+{
+"q": "What would change if you made more time for writing a thank-you note?",
+"c": "Make time for writing a thank-you note today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for planning a family meal?",
+"c": "Make time for planning a family meal today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for playing with children?",
+"c": "Make time for playing with children today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for spending time with elders?",
+"c": "Make time for spending time with elders today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for sharing a story with someone?",
+"c": "Make time for sharing a story with someone today, even for just ten minutes."
+},
+{
+"q": "What are you proud of from this month?",
+"c": "Stretch or walk for 10 minutes."
+},
+{
+"q": "What would change if you made more time for asking someone about their day?",
+"c": "Make time for asking someone about their day today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for taking a break from screens?",
+"c": "Make time for taking a break from screens today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for reading offline?",
+"c": "Make time for reading offline today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for unsubscribing from clutter?",
+"c": "Make time for unsubscribing from clutter today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for organising your files?",
+"c": "Make time for organising your files today, even for just ten minutes."
+},
+{
+"q": "What would make tomorrow easier?",
+"c": "Prepare one thing tonight for tomorrow morning."
+},
+{
+"q": "What would change if you made more time for learning about online safety?",
+"c": "Make time for learning about online safety today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for updating your passwords?",
+"c": "Make time for updating your passwords today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for reviewing app permissions?",
+"c": "Make time for reviewing app permissions today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for writing your to-do list?",
+"c": "Make time for writing your to-do list today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for focusing on a single task?",
+"c": "Make time for focusing on a single task today, even for just ten minutes."
+},
+{
+"q": "What is one thing you can let go of today?",
+"c": "Delete or tidy something you no longer need."
+},
+{
+"q": "What would change if you made more time for working in a quiet block?",
+"c": "Make time for working in a quiet block today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for reviewing your week?",
+"c": "Make time for reviewing your week today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for setting one weekly goal?",
+"c": "Make time for setting one weekly goal today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for tracking your habits?",
+"c": "Make time for tracking your habits today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for reflecting on your day?",
+"c": "Make time for reflecting on your day today, even for just ten minutes."
+},
+{
+"q": "What would you do if today were a fresh start?",
+"c": "Make your bed or clear your desk first thing."
+},
+{
+"q": "What would change if you made more time for visualising your goals?",
+"c": "Make time for visualising your goals today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for practising positive self-talk?",
+"c": "Make time for practising positive self-talk today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for noting what went well?",
+"c": "Make time for noting what went well today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for learning from a mistake?",
+"c": "Make time for learning from a mistake today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for celebrating a small win?",
+"c": "Make time for celebrating a small win today, even for just ten minutes."
+},
+{
+"q": "Who are you becoming, one small choice at a time?",
+"c": "Make one choice today that your future self will thank you for."
+},
+{
+"q": "What would change if you made more time for trying something new?",
+"c": "Make time for trying something new today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for learning about another culture?",
+"c": "Make time for learning about another culture today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for cooking a regional dish?",
+"c": "Make time for cooking a regional dish today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for learning about space?",
+"c": "Make time for learning about space today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for learning about nature?",
+"c": "Make time for learning about nature today, even for just ten minutes."
+},
+{
+"q": "What are you waiting for permission to do?",
+"c": "Take the first step of something you've been delaying."
+},
+{
+"q": "What would change if you made more time for planting a sapling?",
+"c": "Make time for planting a sapling today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for learning a folk song?",
+"c": "Make time for learning a folk song today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for practising a sport?",
+"c": "Make time for practising a sport today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for going for a run?",
+"c": "Make time for going for a run today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for doing a puzzle with family?",
+"c": "Make time for doing a puzzle with family today, even for just ten minutes."
+},
+{
+"q": "What did you enjoy most this week?",
+"c": "Do more of it for 15 minutes today."
+},
+{
+"q": "What would change if you made more time for writing a poem?",
+"c": "Make time for writing a poem today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for learning to cook one dish?",
+"c": "Make time for learning to cook one dish today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for making a vision board?",
+"c": "Make time for making a vision board today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for organising a cupboard?",
+"c": "Make time for organising a cupboard today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for reading to a child?",
+"c": "Make time for reading to a child today, even for just ten minutes."
+},
+{
+"q": "What would make today feel complete?",
+"c": "Finish one task you started."
+},
+{
+"q": "What would change if you made more time for learning a magic trick?",
+"c": "Make time for learning a magic trick today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for exploring a new hobby?",
+"c": "Make time for exploring a new hobby today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for planning a trip?",
+"c": "Make time for planning a trip today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for learning to budget?",
+"c": "Make time for learning to budget today, even for just ten minutes."
+},
+{
+"q": "What would change if you made more time for studying for a goal?",
+"c": "Make time for studying for a goal today, even for just ten minutes."
+},
+{
+"q": "What is a kind thing you could do without being asked?",
+"c": "Do one small favour for someone."
+},
+{
+"q": "How do you feel after walking outdoors, and how often do you make time for it?",
+"c": "Spend a few minutes on walking outdoors and notice how you feel."
+},
+{
+"q": "How do you feel after reading a book, and how often do you make time for it?",
+"c": "Spend a few minutes on reading a book and notice how you feel."
+},
+{
+"q": "How do you feel after stretching your body, and how often do you make time for it?",
+"c": "Spend a few minutes on stretching your body and notice how you feel."
+},
+{
+"q": "How do you feel after writing in a journal, and how often do you make time for it?",
+"c": "Spend a few minutes on writing in a journal and notice how you feel."
+},
+{
+"q": "How do you feel after learning a new language, and how often do you make time for it?",
+"c": "Spend a few minutes on learning a new language and notice how you feel."
+},
+{
+"q": "What are you overthinking?",
+"c": "Write it down, then decide one next step."
+},
+{
+"q": "How do you feel after practising a musical instrument, and how often do you make time for it?",
+"c": "Spend a few minutes on practising a musical instrument and notice how you feel."
+},
+{
+"q": "How do you feel after meditating quietly, and how often do you make time for it?",
+"c": "Spend a few minutes on meditating quietly and notice how you feel."
+},
+{
+"q": "How do you feel after cooking a healthy meal, and how often do you make time for it?",
+"c": "Spend a few minutes on cooking a healthy meal and notice how you feel."
+},
+{
+"q": "How do you feel after drawing or doodling, and how often do you make time for it?",
+"c": "Spend a few minutes on drawing or doodling and notice how you feel."
+},
+{
+"q": "How do you feel after studying a new skill, and how often do you make time for it?",
+"c": "Spend a few minutes on studying a new skill and notice how you feel."
+},
+{
+"q": "What does rest look like for you?",
+"c": "Take a 10-minute break with no screen."
+},
+{
+"q": "How do you feel after decluttering one space, and how often do you make time for it?",
+"c": "Spend a few minutes on decluttering one space and notice how you feel."
+},
+{
+"q": "How do you feel after exercising, and how often do you make time for it?",
+"c": "Spend a few minutes on exercising and notice how you feel."
+},
+{
+"q": "How do you feel after listening to an educational podcast, and how often do you make time for it?",
+"c": "Spend a few minutes on listening to an educational podcast and notice how you feel."
+},
+{
+"q": "How do you feel after reviewing your spending, and how often do you make time for it?",
+"c": "Spend a few minutes on reviewing your spending and notice how you feel."
+},
+{
+"q": "How do you feel after learning to code, and how often do you make time for it?",
+"c": "Spend a few minutes on learning to code and notice how you feel."
+},
+{
+"q": "What is your biggest distraction, and what does it give you?",
+"c": "Put your phone in another room for one hour."
+},
+{
+"q": "How do you feel after gardening or caring for plants, and how often do you make time for it?",
+"c": "Spend a few minutes on gardening or caring for plants and notice how you feel."
+},
+{
+"q": "How do you feel after calling a friend, and how often do you make time for it?",
+"c": "Spend a few minutes on calling a friend and notice how you feel."
+},
+{
+"q": "How do you feel after calling a family member, and how often do you make time for it?",
+"c": "Spend a few minutes on calling a family member and notice how you feel."
+},
+{
+"q": "How do you feel after volunteering, and how often do you make time for it?",
+"c": "Spend a few minutes on volunteering and notice how you feel."
+},
+{
+"q": "How do you feel after dancing, and how often do you make time for it?",
+"c": "Spend a few minutes on dancing and notice how you feel."
+},
+{
+"q": "Which of your habits would your best self keep?",
+"c": "Repeat one good habit you already have."
+},
+{
+"q": "How do you feel after swimming, and how often do you make time for it?",
+"c": "Spend a few minutes on swimming and notice how you feel."
+},
+{
+"q": "How do you feel after cycling, and how often do you make time for it?",
+"c": "Spend a few minutes on cycling and notice how you feel."
+},
+{
+"q": "How do you feel after singing, and how often do you make time for it?",
+"c": "Spend a few minutes on singing and notice how you feel."
+},
+{
+"q": "How do you feel after taking photographs, and how often do you make time for it?",
+"c": "Spend a few minutes on taking photographs and notice how you feel."
+},
+{
+"q": "How do you feel after planning your week, and how often do you make time for it?",
+"c": "Spend a few minutes on planning your week and notice how you feel."
+},
+{
+"q": "What are you learning right now?",
+"c": "Teach what you learned to someone in two minutes."
+},
+{
+"q": "How do you feel after practising gratitude, and how often do you make time for it?",
+"c": "Spend a few minutes on practising gratitude and notice how you feel."
+},
+{
+"q": "How do you feel after cleaning one small area, and how often do you make time for it?",
+"c": "Spend a few minutes on cleaning one small area and notice how you feel."
+},
+{
+"q": "How do you feel after learning first aid, and how often do you make time for it?",
+"c": "Spend a few minutes on learning first aid and notice how you feel."
+},
+{
+"q": "How do you feel after practising public speaking, and how often do you make time for it?",
+"c": "Spend a few minutes on practising public speaking and notice how you feel."
+},
+{
+"q": "How do you feel after writing a letter, and how often do you make time for it?",
+"c": "Spend a few minutes on writing a letter and notice how you feel."
+},
+{
+"q": "What would you say to your younger self?",
+"c": "Write one sentence of advice to your younger self."
+},
+{
+"q": "How do you feel after sketching your ideas, and how often do you make time for it?",
+"c": "Spend a few minutes on sketching your ideas and notice how you feel."
+},
+{
+"q": "How do you feel after learning about personal finance, and how often do you make time for it?",
+"c": "Spend a few minutes on learning about personal finance and notice how you feel."
+},
+{
+"q": "How do you feel after cooking a new recipe, and how often do you make time for it?",
+"c": "Spend a few minutes on cooking a new recipe and notice how you feel."
+},
+{
+"q": "How do you feel after walking without your phone, and how often do you make time for it?",
+"c": "Spend a few minutes on walking without your phone and notice how you feel."
+},
+{
+"q": "How do you feel after deep breathing, and how often do you make time for it?",
+"c": "Spend a few minutes on deep breathing and notice how you feel."
+},
+{
+"q": "What small comfort do you deserve today?",
+"c": "Enjoy a warm drink slowly, without multitasking."
+},
+{
+"q": "How do you feel after journaling about your goals, and how often do you make time for it?",
+"c": "Spend a few minutes on journaling about your goals and notice how you feel."
+},
+{
+"q": "How do you feel after reading about history, and how often do you make time for it?",
+"c": "Spend a few minutes on reading about history and notice how you feel."
+},
+{
+"q": "How do you feel after solving a puzzle, and how often do you make time for it?",
+"c": "Spend a few minutes on solving a puzzle and notice how you feel."
+},
+{
+"q": "How do you feel after playing a board game, and how often do you make time for it?",
+"c": "Spend a few minutes on playing a board game and notice how you feel."
+},
+{
+"q": "How do you feel after organising your photos, and how often do you make time for it?",
+"c": "Spend a few minutes on organising your photos and notice how you feel."
+},
+{
+"q": "What would happen if you said no to one thing?",
+"c": "Decline or postpone one thing that drains you."
+},
+{
+"q": "How do you feel after backing up your files, and how often do you make time for it?",
+"c": "Spend a few minutes on backing up your files and notice how you feel."
+},
+{
+"q": "How do you feel after cleaning your inbox, and how often do you make time for it?",
+"c": "Spend a few minutes on cleaning your inbox and notice how you feel."
+},
+{
+"q": "How do you feel after updating your resume, and how often do you make time for it?",
+"c": "Spend a few minutes on updating your resume and notice how you feel."
+},
+{
+"q": "How do you feel after learning a new software tool, and how often do you make time for it?",
+"c": "Spend a few minutes on learning a new software tool and notice how you feel."
+},
+{
+"q": "How do you feel after practising handwriting, and how often do you make time for it?",
+"c": "Spend a few minutes on practising handwriting and notice how you feel."
+},
+{
+"q": "What did you take for granted this week?",
+"c": "Thank someone who helps you regularly."
+},
+{
+"q": "How do you feel after writing a short story, and how often do you make time for it?",
+"c": "Spend a few minutes on writing a short story and notice how you feel."
+},
+{
+"q": "How do you feel after reading a poem, and how often do you make time for it?",
+"c": "Spend a few minutes on reading a poem and notice how you feel."
+},
+{
+"q": "How do you feel after visiting a park, and how often do you make time for it?",
+"c": "Spend a few minutes on visiting a park and notice how you feel."
+},
+{
+"q": "How do you feel after watching the sunset, and how often do you make time for it?",
+"c": "Spend a few minutes on watching the sunset and notice how you feel."
+},
+{
+"q": "How do you feel after stargazing, and how often do you make time for it?",
+"c": "Spend a few minutes on stargazing and notice how you feel."
+},
+{
+"q": "What kind of day do you want to have?",
+"c": "Set one intention for today in a single sentence."
+},
+{
+"q": "How do you feel after bird watching, and how often do you make time for it?",
+"c": "Spend a few minutes on bird watching and notice how you feel."
+},
+{
+"q": "How do you feel after cooking for someone else, and how often do you make time for it?",
+"c": "Spend a few minutes on cooking for someone else and notice how you feel."
+},
+{
+"q": "How do you feel after baking something simple, and how often do you make time for it?",
+"c": "Spend a few minutes on baking something simple and notice how you feel."
+},
+{
+"q": "How do you feel after preparing tomorrow's plan, and how often do you make time for it?",
+"c": "Spend a few minutes on preparing tomorrow's plan and notice how you feel."
+},
+{
+"q": "How do you feel after tidying your desk, and how often do you make time for it?",
+"c": "Spend a few minutes on tidying your desk and notice how you feel."
+},
+{
+"q": "What is one problem you can solve in 10 minutes?",
+"c": "Fix one small annoyance you've ignored."
+},
+{
+"q": "How do you feel after sorting your clothes, and how often do you make time for it?",
+"c": "Spend a few minutes on sorting your clothes and notice how you feel."
+},
+{
+"q": "How do you feel after watering your plants, and how often do you make time for it?",
+"c": "Spend a few minutes on watering your plants and notice how you feel."
+},
+{
+"q": "How do you feel after playing with a pet, and how often do you make time for it?",
+"c": "Spend a few minutes on playing with a pet and notice how you feel."
+},
+{
+"q": "How do you feel after doing yoga, and how often do you make time for it?",
+"c": "Spend a few minutes on doing yoga and notice how you feel."
+},
+{
+"q": "How do you feel after doing a short workout, and how often do you make time for it?",
+"c": "Spend a few minutes on doing a short workout and notice how you feel."
+},
+{
+"q": "What is your favourite way to spend a slow morning?",
+"c": "Spend the first 15 minutes of the day without your phone."
+},
+{
+"q": "How do you feel after practising balance exercises, and how often do you make time for it?",
+"c": "Spend a few minutes on practising balance exercises and notice how you feel."
+},
+{
+"q": "How do you feel after preparing a healthy snack, and how often do you make time for it?",
+"c": "Spend a few minutes on preparing a healthy snack and notice how you feel."
+},
+{
+"q": "How do you feel after winding down before bed, and how often do you make time for it?",
+"c": "Spend a few minutes on winding down before bed and notice how you feel."
+},
+{
+"q": "How do you feel after writing down three wins, and how often do you make time for it?",
+"c": "Spend a few minutes on writing down three wins and notice how you feel."
+},
+{
+"q": "How do you feel after reviewing your goals, and how often do you make time for it?",
+"c": "Spend a few minutes on reviewing your goals and notice how you feel."
+},
+{
+"q": "Who inspires you, and why?",
+"c": "Message someone who inspires you and say so."
+},
+{
+"q": "How do you feel after planning a savings target, and how often do you make time for it?",
+"c": "Spend a few minutes on planning a savings target and notice how you feel."
+},
+{
+"q": "How do you feel after comparing prices before you buy, and how often do you make time for it?",
+"c": "Spend a few minutes on comparing prices before you buy and notice how you feel."
+},
+{
+"q": "How do you feel after learning a keyboard shortcut, and how often do you make time for it?",
+"c": "Spend a few minutes on learning a keyboard shortcut and notice how you feel."
+},
+{
+"q": "How do you feel after reading an article in depth, and how often do you make time for it?",
+"c": "Spend a few minutes on reading an article in depth and notice how you feel."
+},
+{
+"q": "How do you feel after learning a new word, and how often do you make time for it?",
+"c": "Spend a few minutes on learning a new word and notice how you feel."
+},
+{
+"q": "What would you try if you were braver?",
+"c": "Do one slightly uncomfortable thing today."
+},
+{
+"q": "How do you feel after memorising a poem, and how often do you make time for it?",
+"c": "Spend a few minutes on memorising a poem and notice how you feel."
+},
+{
+"q": "How do you feel after practising mental maths, and how often do you make time for it?",
+"c": "Spend a few minutes on practising mental maths and notice how you feel."
+},
+{
+"q": "How do you feel after playing chess, and how often do you make time for it?",
+"c": "Spend a few minutes on playing chess and notice how you feel."
+},
+{
+"q": "How do you feel after building something with your hands, and how often do you make time for it?",
+"c": "Spend a few minutes on building something with your hands and notice how you feel."
+},
+{
+"q": "How do you feel after repairing something small, and how often do you make time for it?",
+"c": "Spend a few minutes on repairing something small and notice how you feel."
+},
+{
+"q": "What is worth remembering from today?",
+"c": "Take one photo or note of a moment worth keeping."
+},
+{
+"q": "How do you feel after learning to knit or craft, and how often do you make time for it?",
+"c": "Spend a few minutes on learning to knit or craft and notice how you feel."
+},
+{
+"q": "How do you feel after painting, and how often do you make time for it?",
+"c": "Spend a few minutes on painting and notice how you feel."
+},
+{
+"q": "How do you feel after making a playlist, and how often do you make time for it?",
+"c": "Spend a few minutes on making a playlist and notice how you feel."
+},
+{
+"q": "How do you feel after exploring a new neighbourhood, and how often do you make time for it?",
+"c": "Spend a few minutes on exploring a new neighbourhood and notice how you feel."
+},
+{
+"q": "How do you feel after visiting a library, and how often do you make time for it?",
+"c": "Spend a few minutes on visiting a library and notice how you feel."
+},
+{
+"q": "How do you talk to yourself when you make a mistake?",
+"c": "Speak to yourself as you would to a good friend."
+},
+{
+"q": "How do you feel after meeting a neighbour, and how often do you make time for it?",
+"c": "Spend a few minutes on meeting a neighbour and notice how you feel."
+},
+{
+"q": "How do you feel after helping a colleague, and how often do you make time for it?",
+"c": "Spend a few minutes on helping a colleague and notice how you feel."
+},
+{
+"q": "How do you feel after thanking someone, and how often do you make time for it?",
+"c": "Spend a few minutes on thanking someone and notice how you feel."
+},
+{
+"q": "How do you feel after giving kind feedback, and how often do you make time for it?",
+"c": "Spend a few minutes on giving kind feedback and notice how you feel."
+},
+{
+"q": "How do you feel after listening without interrupting, and how often do you make time for it?",
+"c": "Spend a few minutes on listening without interrupting and notice how you feel."
+},
+{
+"q": "What is the simplest way to make someone's day better?",
+"c": "Give a genuine compliment."
+},
+{
+"q": "How do you feel after writing a thank-you note, and how often do you make time for it?",
+"c": "Spend a few minutes on writing a thank-you note and notice how you feel."
+},
+{
+"q": "How do you feel after planning a family meal, and how often do you make time for it?",
+"c": "Spend a few minutes on planning a family meal and notice how you feel."
+},
+{
+"q": "How do you feel after playing with children, and how often do you make time for it?",
+"c": "Spend a few minutes on playing with children and notice how you feel."
+},
+{
+"q": "How do you feel after spending time with elders, and how often do you make time for it?",
+"c": "Spend a few minutes on spending time with elders and notice how you feel."
+},
+{
+"q": "How do you feel after sharing a story with someone, and how often do you make time for it?",
+"c": "Spend a few minutes on sharing a story with someone and notice how you feel."
+},
+{
+"q": "What do you spend time on that you don't enjoy?",
+"c": "Skip or shorten one such thing today."
+},
+{
+"q": "How do you feel after asking someone about their day, and how often do you make time for it?",
+"c": "Spend a few minutes on asking someone about their day and notice how you feel."
+},
+{
+"q": "How do you feel after taking a break from screens, and how often do you make time for it?",
+"c": "Spend a few minutes on taking a break from screens and notice how you feel."
+},
+{
+"q": "How do you feel after reading offline, and how often do you make time for it?",
+"c": "Spend a few minutes on reading offline and notice how you feel."
+},
+{
+"q": "How do you feel after unsubscribing from clutter, and how often do you make time for it?",
+"c": "Spend a few minutes on unsubscribing from clutter and notice how you feel."
+},
+{
+"q": "How do you feel after organising your files, and how often do you make time for it?",
+"c": "Spend a few minutes on organising your files and notice how you feel."
+},
+{
+"q": "What could you organise to make life easier?",
+"c": "Sort one drawer, folder or inbox for 10 minutes."
+},
+{
+"q": "How do you feel after learning about online safety, and how often do you make time for it?",
+"c": "Spend a few minutes on learning about online safety and notice how you feel."
+},
+{
+"q": "How do you feel after updating your passwords, and how often do you make time for it?",
+"c": "Spend a few minutes on updating your passwords and notice how you feel."
+},
+{
+"q": "How do you feel after reviewing app permissions, and how often do you make time for it?",
+"c": "Spend a few minutes on reviewing app permissions and notice how you feel."
+},
+{
+"q": "How do you feel after writing your to-do list, and how often do you make time for it?",
+"c": "Spend a few minutes on writing your to-do list and notice how you feel."
+},
+{
+"q": "How do you feel after focusing on a single task, and how often do you make time for it?",
+"c": "Spend a few minutes on focusing on a single task and notice how you feel."
+},
+{
+"q": "What does a healthy day mean to you?",
+"c": "Eat one extra fruit or vegetable."
+},
+{
+"q": "How do you feel after working in a quiet block, and how often do you make time for it?",
+"c": "Spend a few minutes on working in a quiet block and notice how you feel."
+},
+{
+"q": "How do you feel after reviewing your week, and how often do you make time for it?",
+"c": "Spend a few minutes on reviewing your week and notice how you feel."
+},
+{
+"q": "How do you feel after setting one weekly goal, and how often do you make time for it?",
+"c": "Spend a few minutes on setting one weekly goal and notice how you feel."
+},
+{
+"q": "How do you feel after tracking your habits, and how often do you make time for it?",
+"c": "Spend a few minutes on tracking your habits and notice how you feel."
+},
+{
+"q": "How do you feel after reflecting on your day, and how often do you make time for it?",
+"c": "Spend a few minutes on reflecting on your day and notice how you feel."
+},
+{
+"q": "What are you saving your energy for?",
+"c": "Stretch for five minutes."
+},
+{
+"q": "How do you feel after visualising your goals, and how often do you make time for it?",
+"c": "Spend a few minutes on visualising your goals and notice how you feel."
+},
+{
+"q": "How do you feel after practising positive self-talk, and how often do you make time for it?",
+"c": "Spend a few minutes on practising positive self-talk and notice how you feel."
+},
+{
+"q": "How do you feel after noting what went well, and how often do you make time for it?",
+"c": "Spend a few minutes on noting what went well and notice how you feel."
+},
+{
+"q": "How do you feel after learning from a mistake, and how often do you make time for it?",
+"c": "Spend a few minutes on learning from a mistake and notice how you feel."
+},
+{
+"q": "How do you feel after celebrating a small win, and how often do you make time for it?",
+"c": "Spend a few minutes on celebrating a small win and notice how you feel."
+},
+{
+"q": "What do you want to remember about this season of life?",
+"c": "Write down three details of today."
+},
+{
+"q": "How do you feel after trying something new, and how often do you make time for it?",
+"c": "Spend a few minutes on trying something new and notice how you feel."
+},
+{
+"q": "How do you feel after learning about another culture, and how often do you make time for it?",
+"c": "Spend a few minutes on learning about another culture and notice how you feel."
+},
+{
+"q": "How do you feel after cooking a regional dish, and how often do you make time for it?",
+"c": "Spend a few minutes on cooking a regional dish and notice how you feel."
+},
+{
+"q": "How do you feel after learning about space, and how often do you make time for it?",
+"c": "Spend a few minutes on learning about space and notice how you feel."
+},
+{
+"q": "How do you feel after learning about nature, and how often do you make time for it?",
+"c": "Spend a few minutes on learning about nature and notice how you feel."
+},
+{
+"q": "Which skill would you like to be known for?",
+"c": "Practise it for 15 minutes."
+},
+{
+"q": "How do you feel after planting a sapling, and how often do you make time for it?",
+"c": "Spend a few minutes on planting a sapling and notice how you feel."
+},
+{
+"q": "How do you feel after learning a folk song, and how often do you make time for it?",
+"c": "Spend a few minutes on learning a folk song and notice how you feel."
+},
+{
+"q": "How do you feel after practising a sport, and how often do you make time for it?",
+"c": "Spend a few minutes on practising a sport and notice how you feel."
+},
+{
+"q": "How do you feel after going for a run, and how often do you make time for it?",
+"c": "Spend a few minutes on going for a run and notice how you feel."
+},
+{
+"q": "How do you feel after doing a puzzle with family, and how often do you make time for it?",
+"c": "Spend a few minutes on doing a puzzle with family and notice how you feel."
+},
+{
+"q": "What are you looking forward to?",
+"c": "Plan something small to look forward to this week."
+},
+{
+"q": "How do you feel after writing a poem, and how often do you make time for it?",
+"c": "Spend a few minutes on writing a poem and notice how you feel."
+},
+{
+"q": "How do you feel after learning to cook one dish, and how often do you make time for it?",
+"c": "Spend a few minutes on learning to cook one dish and notice how you feel."
+},
+{
+"q": "How do you feel after making a vision board, and how often do you make time for it?",
+"c": "Spend a few minutes on making a vision board and notice how you feel."
+},
+{
+"q": "How do you feel after organising a cupboard, and how often do you make time for it?",
+"c": "Spend a few minutes on organising a cupboard and notice how you feel."
+},
+{
+"q": "How do you feel after reading to a child, and how often do you make time for it?",
+"c": "Spend a few minutes on reading to a child and notice how you feel."
+},
+{
+"q": "What would you do with a quiet hour?",
+"c": "Take a quiet 20 minutes to think or walk."
+},
+{
+"q": "How do you feel after learning a magic trick, and how often do you make time for it?",
+"c": "Spend a few minutes on learning a magic trick and notice how you feel."
+},
+{
+"q": "How do you feel after exploring a new hobby, and how often do you make time for it?",
+"c": "Spend a few minutes on exploring a new hobby and notice how you feel."
+},
+{
+"q": "How do you feel after planning a trip, and how often do you make time for it?",
+"c": "Spend a few minutes on planning a trip and notice how you feel."
+},
+{
+"q": "How do you feel after learning to budget, and how often do you make time for it?",
+"c": "Spend a few minutes on learning to budget and notice how you feel."
+},
+{
+"q": "How do you feel after studying for a goal, and how often do you make time for it?",
+"c": "Spend a few minutes on studying for a goal and notice how you feel."
+},
+{
+"q": "What are your top three priorities right now?",
+"c": "Write them down and do the first one."
+},
+{
+"q": "What stops you from walking outdoors more often, and how could you remove that?",
+"c": "Set aside 20 minutes for walking outdoors, without distractions."
+},
+{
+"q": "What stops you from reading a book more often, and how could you remove that?",
+"c": "Set aside 20 minutes for reading a book, without distractions."
+},
+{
+"q": "What stops you from stretching your body more often, and how could you remove that?",
+"c": "Set aside 20 minutes for stretching your body, without distractions."
+},
+{
+"q": "What stops you from writing in a journal more often, and how could you remove that?",
+"c": "Set aside 20 minutes for writing in a journal, without distractions."
+},
+{
+"q": "What stops you from learning a new language more often, and how could you remove that?",
+"c": "Set aside 20 minutes for learning a new language, without distractions."
+},
+{
+"q": "Is there someone you owe an apology or thanks?",
+"c": "Send the message you've been putting off."
+},
+{
+"q": "What stops you from practising a musical instrument more often, and how could you remove that?",
+"c": "Set aside 20 minutes for practising a musical instrument, without distractions."
+},
+{
+"q": "What stops you from meditating quietly more often, and how could you remove that?",
+"c": "Set aside 20 minutes for meditating quietly, without distractions."
+},
+{
+"q": "What stops you from cooking a healthy meal more often, and how could you remove that?",
+"c": "Set aside 20 minutes for cooking a healthy meal, without distractions."
+},
+{
+"q": "What stops you from drawing or doodling more often, and how could you remove that?",
+"c": "Set aside 20 minutes for drawing or doodling, without distractions."
+},
+{
+"q": "What stops you from studying a new skill more often, and how could you remove that?",
+"c": "Set aside 20 minutes for studying a new skill, without distractions."
+},
+{
+"q": "What would your ideal evening look like?",
+"c": "Cook or plan a simple, calm dinner."
+},
+{
+"q": "What stops you from decluttering one space more often, and how could you remove that?",
+"c": "Set aside 20 minutes for decluttering one space, without distractions."
+},
+{
+"q": "What stops you from exercising more often, and how could you remove that?",
+"c": "Set aside 20 minutes for exercising, without distractions."
+},
+{
+"q": "What stops you from listening to an educational podcast more often, and how could you remove that?",
+"c": "Set aside 20 minutes for listening to an educational podcast, without distractions."
+},
+{
+"q": "What stops you from reviewing your spending more often, and how could you remove that?",
+"c": "Set aside 20 minutes for reviewing your spending, without distractions."
+},
+{
+"q": "What stops you from learning to code more often, and how could you remove that?",
+"c": "Set aside 20 minutes for learning to code, without distractions."
+},
+{
+"q": "How could you make tomorrow easier tonight?",
+"c": "Prepare clothes, bag or a to-do list for tomorrow."
+},
+{
+"q": "What stops you from gardening or caring for plants more often, and how could you remove that?",
+"c": "Set aside 20 minutes for gardening or caring for plants, without distractions."
+},
+{
+"q": "What stops you from calling a friend more often, and how could you remove that?",
+"c": "Set aside 20 minutes for calling a friend, without distractions."
+},
+{
+"q": "What stops you from calling a family member more often, and how could you remove that?",
+"c": "Set aside 20 minutes for calling a family member, without distractions."
+},
+{
+"q": "What stops you from volunteering more often, and how could you remove that?",
+"c": "Set aside 20 minutes for volunteering, without distractions."
+},
+{
+"q": "What stops you from dancing more often, and how could you remove that?",
+"c": "Set aside 20 minutes for dancing, without distractions."
+},
+{
+"q": "What are you proud of doing regularly?",
+"c": "Do it once more, with full attention."
+},
+{
+"q": "What stops you from swimming more often, and how could you remove that?",
+"c": "Set aside 20 minutes for swimming, without distractions."
+},
+{
+"q": "What stops you from cycling more often, and how could you remove that?",
+"c": "Set aside 20 minutes for cycling, without distractions."
+},
+{
+"q": "What stops you from singing more often, and how could you remove that?",
+"c": "Set aside 20 minutes for singing, without distractions."
+},
+{
+"q": "What stops you from taking photographs more often, and how could you remove that?",
+"c": "Set aside 20 minutes for taking photographs, without distractions."
+},
+{
+"q": "What stops you from planning your week more often, and how could you remove that?",
+"c": "Set aside 20 minutes for planning your week, without distractions."
+},
+{
+"q": "What is a question you'd love an answer to?",
+"c": "Spend 10 minutes looking for that answer."
+},
+{
+"q": "What stops you from practising gratitude more often, and how could you remove that?",
+"c": "Set aside 20 minutes for practising gratitude, without distractions."
+},
+{
+"q": "What stops you from cleaning one small area more often, and how could you remove that?",
+"c": "Set aside 20 minutes for cleaning one small area, without distractions."
+},
+{
+"q": "What stops you from learning first aid more often, and how could you remove that?",
+"c": "Set aside 20 minutes for learning first aid, without distractions."
+},
+{
+"q": "What stops you from practising public speaking more often, and how could you remove that?",
+"c": "Set aside 20 minutes for practising public speaking, without distractions."
+},
+{
+"q": "What stops you from writing a letter more often, and how could you remove that?",
+"c": "Set aside 20 minutes for writing a letter, without distractions."
+},
+{
+"q": "How do you want to feel at the end of today?",
+"c": "Do one thing that moves you toward that feeling."
+},
+{
+"q": "What stops you from sketching your ideas more often, and how could you remove that?",
+"c": "Set aside 20 minutes for sketching your ideas, without distractions."
+},
+{
+"q": "What stops you from learning about personal finance more often, and how could you remove that?",
+"c": "Set aside 20 minutes for learning about personal finance, without distractions."
+},
+{
+"q": "What stops you from cooking a new recipe more often, and how could you remove that?",
+"c": "Set aside 20 minutes for cooking a new recipe, without distractions."
+},
+{
+"q": "What stops you from walking without your phone more often, and how could you remove that?",
+"c": "Set aside 20 minutes for walking without your phone, without distractions."
+},
+{
+"q": "What stops you from deep breathing more often, and how could you remove that?",
+"c": "Set aside 20 minutes for deep breathing, without distractions."
+},
+{
+"q": "What can you simplify?",
+"c": "Remove one thing from your to-do list."
+},
+{
+"q": "What stops you from journaling about your goals more often, and how could you remove that?",
+"c": "Set aside 20 minutes for journaling about your goals, without distractions."
+},
+{
+"q": "What stops you from reading about history more often, and how could you remove that?",
+"c": "Set aside 20 minutes for reading about history, without distractions."
+},
+{
+"q": "What stops you from solving a puzzle more often, and how could you remove that?",
+"c": "Set aside 20 minutes for solving a puzzle, without distractions."
+},
+{
+"q": "What stops you from playing a board game more often, and how could you remove that?",
+"c": "Set aside 20 minutes for playing a board game, without distractions."
+},
+{
+"q": "What stops you from organising your photos more often, and how could you remove that?",
+"c": "Set aside 20 minutes for organising your photos, without distractions."
+},
+{
+"q": "What made you smile recently?",
+"c": "Do something today that could make someone else smile."
+},
+{
+"q": "What stops you from backing up your files more often, and how could you remove that?",
+"c": "Set aside 20 minutes for backing up your files, without distractions."
+},
+{
+"q": "What stops you from cleaning your inbox more often, and how could you remove that?",
+"c": "Set aside 20 minutes for cleaning your inbox, without distractions."
+},
+{
+"q": "What stops you from updating your resume more often, and how could you remove that?",
+"c": "Set aside 20 minutes for updating your resume, without distractions."
+},
+{
+"q": "What stops you from learning a new software tool more often, and how could you remove that?",
+"c": "Set aside 20 minutes for learning a new software tool, without distractions."
+},
+{
+"q": "What stops you from practising handwriting more often, and how could you remove that?",
+"c": "Set aside 20 minutes for practising handwriting, without distractions."
+},
+{
+"q": "What is one thing you can finish today?",
+"c": "Choose one small task and finish it completely."
+},
+{
+"q": "What stops you from writing a short story more often, and how could you remove that?",
+"c": "Set aside 20 minutes for writing a short story, without distractions."
+},
+{
+"q": "What stops you from reading a poem more often, and how could you remove that?",
+"c": "Set aside 20 minutes for reading a poem, without distractions."
+},
+{
+"q": "What stops you from visiting a park more often, and how could you remove that?",
+"c": "Set aside 20 minutes for visiting a park, without distractions."
+},
+{
+"q": "What stops you from watching the sunset more often, and how could you remove that?",
+"c": "Set aside 20 minutes for watching the sunset, without distractions."
+},
+{
+"q": "What stops you from stargazing more often, and how could you remove that?",
+"c": "Set aside 20 minutes for stargazing, without distractions."
+},
+{
+"q": "What advice do you keep ignoring?",
+"c": "Follow it once today."
+},
+{
+"q": "What stops you from bird watching more often, and how could you remove that?",
+"c": "Set aside 20 minutes for bird watching, without distractions."
+},
+{
+"q": "What stops you from cooking for someone else more often, and how could you remove that?",
+"c": "Set aside 20 minutes for cooking for someone else, without distractions."
+},
+{
+"q": "What stops you from baking something simple more often, and how could you remove that?",
+"c": "Set aside 20 minutes for baking something simple, without distractions."
+},
+{
+"q": "What stops you from preparing tomorrow's plan more often, and how could you remove that?",
+"c": "Set aside 20 minutes for preparing tomorrow's plan, without distractions."
+},
+{
+"q": "What stops you from tidying your desk more often, and how could you remove that?",
+"c": "Set aside 20 minutes for tidying your desk, without distractions."
+},
+{
+"q": "What are you most grateful for right now?",
+"c": "Tell someone you're grateful for them."
+},
+{
+"q": "What stops you from sorting your clothes more often, and how could you remove that?",
+"c": "Set aside 20 minutes for sorting your clothes, without distractions."
+},
+{
+"q": "What stops you from watering your plants more often, and how could you remove that?",
+"c": "Set aside 20 minutes for watering your plants, without distractions."
+},
+{
+"q": "What stops you from playing with a pet more often, and how could you remove that?",
+"c": "Set aside 20 minutes for playing with a pet, without distractions."
+},
+{
+"q": "What stops you from doing yoga more often, and how could you remove that?",
+"c": "Set aside 20 minutes for doing yoga, without distractions."
+},
+{
+"q": "What stops you from doing a short workout more often, and how could you remove that?",
+"c": "Set aside 20 minutes for doing a short workout, without distractions."
+},
+{
+"q": "What would a slower day feel like?",
+"c": "Do one thing today at half your usual speed."
+},
+{
+"q": "What stops you from practising balance exercises more often, and how could you remove that?",
+"c": "Set aside 20 minutes for practising balance exercises, without distractions."
+},
+{
+"q": "What stops you from preparing a healthy snack more often, and how could you remove that?",
+"c": "Set aside 20 minutes for preparing a healthy snack, without distractions."
+},
+{
+"q": "What stops you from winding down before bed more often, and how could you remove that?",
+"c": "Set aside 20 minutes for winding down before bed, without distractions."
+},
+{
+"q": "What stops you from writing down three wins more often, and how could you remove that?",
+"c": "Set aside 20 minutes for writing down three wins, without distractions."
+},
+{
+"q": "What stops you from reviewing your goals more often, and how could you remove that?",
+"c": "Set aside 20 minutes for reviewing your goals, without distractions."
+},
+{
+"q": "What can you learn from your last setback?",
+"c": "Write one lesson and one next step."
+},
+{
+"q": "What stops you from planning a savings target more often, and how could you remove that?",
+"c": "Set aside 20 minutes for planning a savings target, without distractions."
+},
+{
+"q": "What stops you from comparing prices before you buy more often, and how could you remove that?",
+"c": "Set aside 20 minutes for comparing prices before you buy, without distractions."
+},
+{
+"q": "What stops you from learning a keyboard shortcut more often, and how could you remove that?",
+"c": "Set aside 20 minutes for learning a keyboard shortcut, without distractions."
+},
+{
+"q": "What stops you from reading an article in depth more often, and how could you remove that?",
+"c": "Set aside 20 minutes for reading an article in depth, without distractions."
+},
+{
+"q": "What stops you from learning a new word more often, and how could you remove that?",
+"c": "Set aside 20 minutes for learning a new word, without distractions."
+},
+{
+"q": "Which part of your home helps you feel calm?",
+"c": "Spend five minutes making that space nicer."
+},
+{
+"q": "What stops you from memorising a poem more often, and how could you remove that?",
+"c": "Set aside 20 minutes for memorising a poem, without distractions."
+},
+{
+"q": "What stops you from practising mental maths more often, and how could you remove that?",
+"c": "Set aside 20 minutes for practising mental maths, without distractions."
+},
+{
+"q": "What stops you from playing chess more often, and how could you remove that?",
+"c": "Set aside 20 minutes for playing chess, without distractions."
+},
+{
+"q": "What stops you from building something with your hands more often, and how could you remove that?",
+"c": "Set aside 20 minutes for building something with your hands, without distractions."
+},
+{
+"q": "What stops you from repairing something small more often, and how could you remove that?",
+"c": "Set aside 20 minutes for repairing something small, without distractions."
+},
+{
+"q": "What is your favourite kind of silence?",
+"c": "Sit quietly for five minutes."
+},
+{
+"q": "What stops you from learning to knit or craft more often, and how could you remove that?",
+"c": "Set aside 20 minutes for learning to knit or craft, without distractions."
+},
+{
+"q": "What stops you from painting more often, and how could you remove that?",
+"c": "Set aside 20 minutes for painting, without distractions."
+},
+{
+"q": "What stops you from making a playlist more often, and how could you remove that?",
+"c": "Set aside 20 minutes for making a playlist, without distractions."
+},
+{
+"q": "What stops you from exploring a new neighbourhood more often, and how could you remove that?",
+"c": "Set aside 20 minutes for exploring a new neighbourhood, without distractions."
+},
+{
+"q": "What stops you from visiting a library more often, and how could you remove that?",
+"c": "Set aside 20 minutes for visiting a library, without distractions."
+},
+{
+"q": "What would you like to be better at by next month?",
+"c": "Practise it for 10 minutes now."
+},
+{
+"q": "What stops you from meeting a neighbour more often, and how could you remove that?",
+"c": "Set aside 20 minutes for meeting a neighbour, without distractions."
+},
+{
+"q": "What stops you from helping a colleague more often, and how could you remove that?",
+"c": "Set aside 20 minutes for helping a colleague, without distractions."
+},
+{
+"q": "What stops you from thanking someone more often, and how could you remove that?",
+"c": "Set aside 20 minutes for thanking someone, without distractions."
+},
+{
+"q": "What stops you from giving kind feedback more often, and how could you remove that?",
+"c": "Set aside 20 minutes for giving kind feedback, without distractions."
+},
+{
+"q": "What stops you from listening without interrupting more often, and how could you remove that?",
+"c": "Set aside 20 minutes for listening without interrupting, without distractions."
+},
+{
+"q": "Who could use encouragement today?",
+"c": "Send someone an encouraging message."
+},
+{
+"q": "What stops you from writing a thank-you note more often, and how could you remove that?",
+"c": "Set aside 20 minutes for writing a thank-you note, without distractions."
+},
+{
+"q": "What stops you from planning a family meal more often, and how could you remove that?",
+"c": "Set aside 20 minutes for planning a family meal, without distractions."
+},
+{
+"q": "What stops you from playing with children more often, and how could you remove that?",
+"c": "Set aside 20 minutes for playing with children, without distractions."
+},
+{
+"q": "What stops you from spending time with elders more often, and how could you remove that?",
+"c": "Set aside 20 minutes for spending time with elders, without distractions."
+},
+{
+"q": "What stops you from sharing a story with someone more often, and how could you remove that?",
+"c": "Set aside 20 minutes for sharing a story with someone, without distractions."
+},
+{
+"q": "What is a rule you follow that you never chose?",
+"c": "Question one 'should' and decide if it's true for you."
+},
+{
+"q": "What stops you from asking someone about their day more often, and how could you remove that?",
+"c": "Set aside 20 minutes for asking someone about their day, without distractions."
+},
+{
+"q": "What stops you from taking a break from screens more often, and how could you remove that?",
+"c": "Set aside 20 minutes for taking a break from screens, without distractions."
+},
+{
+"q": "What stops you from reading offline more often, and how could you remove that?",
+"c": "Set aside 20 minutes for reading offline, without distractions."
+},
+{
+"q": "What stops you from unsubscribing from clutter more often, and how could you remove that?",
+"c": "Set aside 20 minutes for unsubscribing from clutter, without distractions."
+},
+{
+"q": "What stops you from organising your files more often, and how could you remove that?",
+"c": "Set aside 20 minutes for organising your files, without distractions."
+},
+{
+"q": "What could future-you thank you for today?",
+"c": "Set aside a small amount of money."
+},
+{
+"q": "What stops you from learning about online safety more often, and how could you remove that?",
+"c": "Set aside 20 minutes for learning about online safety, without distractions."
+},
+{
+"q": "What stops you from updating your passwords more often, and how could you remove that?",
+"c": "Set aside 20 minutes for updating your passwords, without distractions."
+},
+{
+"q": "What stops you from reviewing app permissions more often, and how could you remove that?",
+"c": "Set aside 20 minutes for reviewing app permissions, without distractions."
+},
+{
+"q": "What stops you from writing your to-do list more often, and how could you remove that?",
+"c": "Set aside 20 minutes for writing your to-do list, without distractions."
+},
+{
+"q": "What stops you from focusing on a single task more often, and how could you remove that?",
+"c": "Set aside 20 minutes for focusing on a single task, without distractions."
+},
+{
+"q": "What would you do if you had no phone today?",
+"c": "Leave your phone behind on a short walk."
+},
+{
+"q": "What stops you from working in a quiet block more often, and how could you remove that?",
+"c": "Set aside 20 minutes for working in a quiet block, without distractions."
+},
+{
+"q": "What stops you from reviewing your week more often, and how could you remove that?",
+"c": "Set aside 20 minutes for reviewing your week, without distractions."
+},
+{
+"q": "What stops you from setting one weekly goal more often, and how could you remove that?",
+"c": "Set aside 20 minutes for setting one weekly goal, without distractions."
+},
+{
+"q": "What stops you from tracking your habits more often, and how could you remove that?",
+"c": "Set aside 20 minutes for tracking your habits, without distractions."
+},
+{
+"q": "What stops you from reflecting on your day more often, and how could you remove that?",
+"c": "Set aside 20 minutes for reflecting on your day, without distractions."
+},
+{
+"q": "What is a small joy you can plan?",
+"c": "Schedule something enjoyable for this weekend."
+},
+{
+"q": "What stops you from visualising your goals more often, and how could you remove that?",
+"c": "Set aside 20 minutes for visualising your goals, without distractions."
+},
+{
+"q": "What stops you from practising positive self-talk more often, and how could you remove that?",
+"c": "Set aside 20 minutes for practising positive self-talk, without distractions."
+},
+{
+"q": "What stops you from noting what went well more often, and how could you remove that?",
+"c": "Set aside 20 minutes for noting what went well, without distractions."
+},
+{
+"q": "What stops you from learning from a mistake more often, and how could you remove that?",
+"c": "Set aside 20 minutes for learning from a mistake, without distractions."
+},
+{
+"q": "What stops you from celebrating a small win more often, and how could you remove that?",
+"c": "Set aside 20 minutes for celebrating a small win, without distractions."
+},
+{
+"q": "What are you tolerating that you could fix?",
+"c": "Fix or replace one small annoying thing."
+},
+{
+"q": "What stops you from trying something new more often, and how could you remove that?",
+"c": "Set aside 20 minutes for trying something new, without distractions."
+},
+{
+"q": "What stops you from learning about another culture more often, and how could you remove that?",
+"c": "Set aside 20 minutes for learning about another culture, without distractions."
+},
+{
+"q": "What stops you from cooking a regional dish more often, and how could you remove that?",
+"c": "Set aside 20 minutes for cooking a regional dish, without distractions."
+},
+{
+"q": "What stops you from learning about space more often, and how could you remove that?",
+"c": "Set aside 20 minutes for learning about space, without distractions."
+},
+{
+"q": "What stops you from learning about nature more often, and how could you remove that?",
+"c": "Set aside 20 minutes for learning about nature, without distractions."
+},
+{
+"q": "What helps you sleep well?",
+"c": "Keep the last 30 minutes of your day phone-free."
+},
+{
+"q": "What stops you from planting a sapling more often, and how could you remove that?",
+"c": "Set aside 20 minutes for planting a sapling, without distractions."
+},
+{
+"q": "What stops you from learning a folk song more often, and how could you remove that?",
+"c": "Set aside 20 minutes for learning a folk song, without distractions."
+},
+{
+"q": "What stops you from practising a sport more often, and how could you remove that?",
+"c": "Set aside 20 minutes for practising a sport, without distractions."
+},
+{
+"q": "What stops you from going for a run more often, and how could you remove that?",
+"c": "Set aside 20 minutes for going for a run, without distractions."
+},
+{
+"q": "What stops you from doing a puzzle with family more often, and how could you remove that?",
+"c": "Set aside 20 minutes for doing a puzzle with family, without distractions."
+},
+{
+"q": "What is a fear you could look at more closely?",
+"c": "Write down the fear and the worst realistic outcome."
+},
+{
+"q": "What stops you from writing a poem more often, and how could you remove that?",
+"c": "Set aside 20 minutes for writing a poem, without distractions."
+},
+{
+"q": "What stops you from learning to cook one dish more often, and how could you remove that?",
+"c": "Set aside 20 minutes for learning to cook one dish, without distractions."
+},
+{
+"q": "What stops you from making a vision board more often, and how could you remove that?",
+"c": "Set aside 20 minutes for making a vision board, without distractions."
+},
+{
+"q": "What stops you from organising a cupboard more often, and how could you remove that?",
+"c": "Set aside 20 minutes for organising a cupboard, without distractions."
+},
+{
+"q": "What stops you from reading to a child more often, and how could you remove that?",
+"c": "Set aside 20 minutes for reading to a child, without distractions."
+},
+{
+"q": "What do you enjoy that costs nothing?",
+"c": "Do it for 20 minutes."
+},
+{
+"q": "What stops you from learning a magic trick more often, and how could you remove that?",
+"c": "Set aside 20 minutes for learning a magic trick, without distractions."
+},
+{
+"q": "What stops you from exploring a new hobby more often, and how could you remove that?",
+"c": "Set aside 20 minutes for exploring a new hobby, without distractions."
+},
+{
+"q": "What stops you from planning a trip more often, and how could you remove that?",
+"c": "Set aside 20 minutes for planning a trip, without distractions."
+},
+{
+"q": "What stops you from learning to budget more often, and how could you remove that?",
+"c": "Set aside 20 minutes for learning to budget, without distractions."
+},
+{
+"q": "What stops you from studying for a goal more often, and how could you remove that?",
+"c": "Set aside 20 minutes for studying for a goal, without distractions."
+},
+{
+"q": "What conversation would help you most right now?",
+"c": "Start that conversation, even briefly."
+},
+{
+"q": "If walking outdoors became a daily habit, what would be different in a month?",
+"c": "Start walking outdoors today, even if it is only five minutes."
+},
+{
+"q": "If reading a book became a daily habit, what would be different in a month?",
+"c": "Start reading a book today, even if it is only five minutes."
+},
+{
+"q": "If stretching your body became a daily habit, what would be different in a month?",
+"c": "Start stretching your body today, even if it is only five minutes."
+},
+{
+"q": "If writing in a journal became a daily habit, what would be different in a month?",
+"c": "Start writing in a journal today, even if it is only five minutes."
+},
+{
+"q": "If learning a new language became a daily habit, what would be different in a month?",
+"c": "Start learning a new language today, even if it is only five minutes."
+},
+{
+"q": "What are you excited about this month?",
+"c": "Take one step toward it."
+},
+{
+"q": "If practising a musical instrument became a daily habit, what would be different in a month?",
+"c": "Start practising a musical instrument today, even if it is only five minutes."
+},
+{
+"q": "If meditating quietly became a daily habit, what would be different in a month?",
+"c": "Start meditating quietly today, even if it is only five minutes."
+},
+{
+"q": "If cooking a healthy meal became a daily habit, what would be different in a month?",
+"c": "Start cooking a healthy meal today, even if it is only five minutes."
+},
+{
+"q": "If drawing or doodling became a daily habit, what would be different in a month?",
+"c": "Start drawing or doodling today, even if it is only five minutes."
+},
+{
+"q": "If studying a new skill became a daily habit, what would be different in a month?",
+"c": "Start studying a new skill today, even if it is only five minutes."
+},
+{
+"q": "What does 'success' mean to you today?",
+"c": "Write your own definition in one sentence."
+},
+{
+"q": "If decluttering one space became a daily habit, what would be different in a month?",
+"c": "Start decluttering one space today, even if it is only five minutes."
+},
+{
+"q": "If exercising became a daily habit, what would be different in a month?",
+"c": "Start exercising today, even if it is only five minutes."
+},
+{
+"q": "If listening to an educational podcast became a daily habit, what would be different in a month?",
+"c": "Start listening to an educational podcast today, even if it is only five minutes."
+},
+{
+"q": "If reviewing your spending became a daily habit, what would be different in a month?",
+"c": "Start reviewing your spending today, even if it is only five minutes."
+},
+{
+"q": "If learning to code became a daily habit, what would be different in a month?",
+"c": "Start learning to code today, even if it is only five minutes."
+},
+{
+"q": "What is a skill you admire in someone else?",
+"c": "Tell them, and ask how they built it."
+},
+{
+"q": "If gardening or caring for plants became a daily habit, what would be different in a month?",
+"c": "Start gardening or caring for plants today, even if it is only five minutes."
+},
+{
+"q": "If calling a friend became a daily habit, what would be different in a month?",
+"c": "Start calling a friend today, even if it is only five minutes."
+},
+{
+"q": "If calling a family member became a daily habit, what would be different in a month?",
+"c": "Start calling a family member today, even if it is only five minutes."
+},
+{
+"q": "If volunteering became a daily habit, what would be different in a month?",
+"c": "Start volunteering today, even if it is only five minutes."
+},
+{
+"q": "If dancing became a daily habit, what would be different in a month?",
+"c": "Start dancing today, even if it is only five minutes."
+},
+{
+"q": "When did you last do something for the first time?",
+"c": "Try one new route, food or song today."
+},
+{
+"q": "If swimming became a daily habit, what would be different in a month?",
+"c": "Start swimming today, even if it is only five minutes."
+},
+{
+"q": "If cycling became a daily habit, what would be different in a month?",
+"c": "Start cycling today, even if it is only five minutes."
+},
+{
+"q": "If singing became a daily habit, what would be different in a month?",
+"c": "Start singing today, even if it is only five minutes."
+},
+{
+"q": "If taking photographs became a daily habit, what would be different in a month?",
+"c": "Start taking photographs today, even if it is only five minutes."
+},
+{
+"q": "If planning your week became a daily habit, what would be different in a month?",
+"c": "Start planning your week today, even if it is only five minutes."
+},
+{
+"q": "What would your day look like with no rushing?",
+"c": "Leave 10 minutes of buffer before your next task."
+},
+{
+"q": "If practising gratitude became a daily habit, what would be different in a month?",
+"c": "Start practising gratitude today, even if it is only five minutes."
+},
+{
+"q": "If cleaning one small area became a daily habit, what would be different in a month?",
+"c": "Start cleaning one small area today, even if it is only five minutes."
+},
+{
+"q": "If learning first aid became a daily habit, what would be different in a month?",
+"c": "Start learning first aid today, even if it is only five minutes."
+},
+{
+"q": "If practising public speaking became a daily habit, what would be different in a month?",
+"c": "Start practising public speaking today, even if it is only five minutes."
+},
+{
+"q": "If writing a letter became a daily habit, what would be different in a month?",
+"c": "Start writing a letter today, even if it is only five minutes."
+},
+{
+"q": "What are you carrying that isn't yours?",
+"c": "Write it down, then set it aside for today."
+},
+{
+"q": "If sketching your ideas became a daily habit, what would be different in a month?",
+"c": "Start sketching your ideas today, even if it is only five minutes."
+},
+{
+"q": "If learning about personal finance became a daily habit, what would be different in a month?",
+"c": "Start learning about personal finance today, even if it is only five minutes."
+},
+{
+"q": "If cooking a new recipe became a daily habit, what would be different in a month?",
+"c": "Start cooking a new recipe today, even if it is only five minutes."
+},
+{
+"q": "If walking without your phone became a daily habit, what would be different in a month?",
+"c": "Start walking without your phone today, even if it is only five minutes."
+},
+{
+"q": "If deep breathing became a daily habit, what would be different in a month?",
+"c": "Start deep breathing today, even if it is only five minutes."
+},
+{
+"q": "Which small thing always lifts your mood?",
+"c": "Do it on purpose today."
+},
+{
+"q": "If journaling about your goals became a daily habit, what would be different in a month?",
+"c": "Start journaling about your goals today, even if it is only five minutes."
+},
+{
+"q": "If reading about history became a daily habit, what would be different in a month?",
+"c": "Start reading about history today, even if it is only five minutes."
+},
+{
+"q": "If solving a puzzle became a daily habit, what would be different in a month?",
+"c": "Start solving a puzzle today, even if it is only five minutes."
+},
+{
+"q": "If playing a board game became a daily habit, what would be different in a month?",
+"c": "Start playing a board game today, even if it is only five minutes."
+},
+{
+"q": "If organising your photos became a daily habit, what would be different in a month?",
+"c": "Start organising your photos today, even if it is only five minutes."
+},
+{
+"q": "What did you learn from the last person who disagreed with you?",
+"c": "Ask one curious question in your next disagreement."
+},
+{
+"q": "If backing up your files became a daily habit, what would be different in a month?",
+"c": "Start backing up your files today, even if it is only five minutes."
+},
+{
+"q": "If cleaning your inbox became a daily habit, what would be different in a month?",
+"c": "Start cleaning your inbox today, even if it is only five minutes."
+},
+{
+"q": "If updating your resume became a daily habit, what would be different in a month?",
+"c": "Start updating your resume today, even if it is only five minutes."
+},
+{
+"q": "If learning a new software tool became a daily habit, what would be different in a month?",
+"c": "Start learning a new software tool today, even if it is only five minutes."
+},
+{
+"q": "If practising handwriting became a daily habit, what would be different in a month?",
+"c": "Start practising handwriting today, even if it is only five minutes."
+},
+{
+"q": "What would make this week one you're proud of?",
+"c": "Choose one task that would do it and schedule it."
+},
+{
+"q": "If writing a short story became a daily habit, what would be different in a month?",
+"c": "Start writing a short story today, even if it is only five minutes."
+},
+{
+"q": "If reading a poem became a daily habit, what would be different in a month?",
+"c": "Start reading a poem today, even if it is only five minutes."
+},
+{
+"q": "If visiting a park became a daily habit, what would be different in a month?",
+"c": "Start visiting a park today, even if it is only five minutes."
+},
+{
+"q": "If watching the sunset became a daily habit, what would be different in a month?",
+"c": "Start watching the sunset today, even if it is only five minutes."
+},
+{
+"q": "If stargazing became a daily habit, what would be different in a month?",
+"c": "Start stargazing today, even if it is only five minutes."
+},
+{
+"q": "What could you stop explaining to others?",
+"c": "Practise a short, kind 'no' today."
+},
+{
+"q": "If bird watching became a daily habit, what would be different in a month?",
+"c": "Start bird watching today, even if it is only five minutes."
+},
+{
+"q": "If cooking for someone else became a daily habit, what would be different in a month?",
+"c": "Start cooking for someone else today, even if it is only five minutes."
+},
+{
+"q": "If baking something simple became a daily habit, what would be different in a month?",
+"c": "Start baking something simple today, even if it is only five minutes."
+},
+{
+"q": "If preparing tomorrow's plan became a daily habit, what would be different in a month?",
+"c": "Start preparing tomorrow's plan today, even if it is only five minutes."
+},
+{
+"q": "If tidying your desk became a daily habit, what would be different in a month?",
+"c": "Start tidying your desk today, even if it is only five minutes."
+},
+{
+"q": "What can you see, hear and feel right now?",
+"c": "Pause for one minute and notice them."
+},
+{
+"q": "If sorting your clothes became a daily habit, what would be different in a month?",
+"c": "Start sorting your clothes today, even if it is only five minutes."
+},
+{
+"q": "If watering your plants became a daily habit, what would be different in a month?",
+"c": "Start watering your plants today, even if it is only five minutes."
+},
+{
+"q": "If playing with a pet became a daily habit, what would be different in a month?",
+"c": "Start playing with a pet today, even if it is only five minutes."
+},
+{
+"q": "If doing yoga became a daily habit, what would be different in a month?",
+"c": "Start doing yoga today, even if it is only five minutes."
+},
+{
+"q": "If doing a short workout became a daily habit, what would be different in a month?",
+"c": "Start doing a short workout today, even if it is only five minutes."
+},
+{
+"q": "If today had a theme, what would it be?",
+"c": "Pick a one-word theme and let it guide your choices."
+},
+{
+"q": "If practising balance exercises became a daily habit, what would be different in a month?",
+"c": "Start practising balance exercises today, even if it is only five minutes."
+},
+{
+"q": "If preparing a healthy snack became a daily habit, what would be different in a month?",
+"c": "Start preparing a healthy snack today, even if it is only five minutes."
+},
+{
+"q": "If winding down before bed became a daily habit, what would be different in a month?",
+"c": "Start winding down before bed today, even if it is only five minutes."
+},
+{
+"q": "If writing down three wins became a daily habit, what would be different in a month?",
+"c": "Start writing down three wins today, even if it is only five minutes."
+},
+{
+"q": "If reviewing your goals became a daily habit, what would be different in a month?",
+"c": "Start reviewing your goals today, even if it is only five minutes."
+},
+{
+"q": "What promise to yourself have you been postponing?",
+"c": "Spend 10 minutes starting it."
+},
+{
+"q": "If planning a savings target became a daily habit, what would be different in a month?",
+"c": "Start planning a savings target today, even if it is only five minutes."
+},
+{
+"q": "If comparing prices before you buy became a daily habit, what would be different in a month?",
+"c": "Start comparing prices before you buy today, even if it is only five minutes."
+},
+{
+"q": "If learning a keyboard shortcut became a daily habit, what would be different in a month?",
+"c": "Start learning a keyboard shortcut today, even if it is only five minutes."
+},
+{
+"q": "If reading an article in depth became a daily habit, what would be different in a month?",
+"c": "Start reading an article in depth today, even if it is only five minutes."
+},
+{
+"q": "If learning a new word became a daily habit, what would be different in a month?",
+"c": "Start learning a new word today, even if it is only five minutes."
+},
+{
+"q": "Who helped you without being asked?",
+"c": "Thank them in person or by message."
+},
+{
+"q": "If memorising a poem became a daily habit, what would be different in a month?",
+"c": "Start memorising a poem today, even if it is only five minutes."
+},
+{
+"q": "If practising mental maths became a daily habit, what would be different in a month?",
+"c": "Start practising mental maths today, even if it is only five minutes."
+},
+{
+"q": "If playing chess became a daily habit, what would be different in a month?",
+"c": "Start playing chess today, even if it is only five minutes."
+},
+{
+"q": "If building something with your hands became a daily habit, what would be different in a month?",
+"c": "Start building something with your hands today, even if it is only five minutes."
+},
+{
+"q": "If repairing something small became a daily habit, what would be different in a month?",
+"c": "Start repairing something small today, even if it is only five minutes."
+},
+{
+"q": "What is a happy memory you haven't revisited lately?",
+"c": "Look at an old photo and smile."
+},
+{
+"q": "If learning to knit or craft became a daily habit, what would be different in a month?",
+"c": "Start learning to knit or craft today, even if it is only five minutes."
+},
+{
+"q": "If painting became a daily habit, what would be different in a month?",
+"c": "Start painting today, even if it is only five minutes."
+},
+{
+"q": "If making a playlist became a daily habit, what would be different in a month?",
+"c": "Start making a playlist today, even if it is only five minutes."
+},
+{
+"q": "If exploring a new neighbourhood became a daily habit, what would be different in a month?",
+"c": "Start exploring a new neighbourhood today, even if it is only five minutes."
+},
+{
+"q": "If visiting a library became a daily habit, what would be different in a month?",
+"c": "Start visiting a library today, even if it is only five minutes."
+},
+{
+"q": "What would you attempt if you only had to try, not succeed?",
+"c": "Take the first small step today."
+},
+{
+"q": "If meeting a neighbour became a daily habit, what would be different in a month?",
+"c": "Start meeting a neighbour today, even if it is only five minutes."
+},
+{
+"q": "If helping a colleague became a daily habit, what would be different in a month?",
+"c": "Start helping a colleague today, even if it is only five minutes."
+},
+{
+"q": "If thanking someone became a daily habit, what would be different in a month?",
+"c": "Start thanking someone today, even if it is only five minutes."
+},
+{
+"q": "If giving kind feedback became a daily habit, what would be different in a month?",
+"c": "Start giving kind feedback today, even if it is only five minutes."
+},
+{
+"q": "If listening without interrupting became a daily habit, what would be different in a month?",
+"c": "Start listening without interrupting today, even if it is only five minutes."
+},
+{
+"q": "What boundary would give you more energy?",
+"c": "Say it out loud or write it down."
+},
+{
+"q": "If writing a thank-you note became a daily habit, what would be different in a month?",
+"c": "Start writing a thank-you note today, even if it is only five minutes."
+},
+{
+"q": "If planning a family meal became a daily habit, what would be different in a month?",
+"c": "Start planning a family meal today, even if it is only five minutes."
+},
+{
+"q": "If playing with children became a daily habit, what would be different in a month?",
+"c": "Start playing with children today, even if it is only five minutes."
+},
+{
+"q": "If spending time with elders became a daily habit, what would be different in a month?",
+"c": "Start spending time with elders today, even if it is only five minutes."
+},
+{
+"q": "If sharing a story with someone became a daily habit, what would be different in a month?",
+"c": "Start sharing a story with someone today, even if it is only five minutes."
+},
+{
+"q": "What have you outgrown?",
+"c": "Let go of one thing that no longer fits."
+},
+{
+"q": "If asking someone about their day became a daily habit, what would be different in a month?",
+"c": "Start asking someone about their day today, even if it is only five minutes."
+},
+{
+"q": "If taking a break from screens became a daily habit, what would be different in a month?",
+"c": "Start taking a break from screens today, even if it is only five minutes."
+},
+{
+"q": "If reading offline became a daily habit, what would be different in a month?",
+"c": "Start reading offline today, even if it is only five minutes."
+},
+{
+"q": "If unsubscribing from clutter became a daily habit, what would be different in a month?",
+"c": "Start unsubscribing from clutter today, even if it is only five minutes."
+},
+{
+"q": "If organising your files became a daily habit, what would be different in a month?",
+"c": "Start organising your files today, even if it is only five minutes."
+},
+{
+"q": "What would you like more of in your evenings?",
+"c": "Add one small thing to tonight."
+},
+{
+"q": "If learning about online safety became a daily habit, what would be different in a month?",
+"c": "Start learning about online safety today, even if it is only five minutes."
+},
+{
+"q": "If updating your passwords became a daily habit, what would be different in a month?",
+"c": "Start updating your passwords today, even if it is only five minutes."
+},
+{
+"q": "If reviewing app permissions became a daily habit, what would be different in a month?",
+"c": "Start reviewing app permissions today, even if it is only five minutes."
+},
+{
+"q": "If writing your to-do list became a daily habit, what would be different in a month?",
+"c": "Start writing your to-do list today, even if it is only five minutes."
+},
+{
+"q": "If focusing on a single task became a daily habit, what would be different in a month?",
+"c": "Start focusing on a single task today, even if it is only five minutes."
+},
+{
+"q": "What do you know now that you wish you'd known a year ago?",
+"c": "Share it with someone who could use it."
+},
+{
+"q": "If working in a quiet block became a daily habit, what would be different in a month?",
+"c": "Start working in a quiet block today, even if it is only five minutes."
+},
+{
+"q": "If reviewing your week became a daily habit, what would be different in a month?",
+"c": "Start reviewing your week today, even if it is only five minutes."
+},
+{
+"q": "If setting one weekly goal became a daily habit, what would be different in a month?",
+"c": "Start setting one weekly goal today, even if it is only five minutes."
+},
+{
+"q": "If tracking your habits became a daily habit, what would be different in a month?",
+"c": "Start tracking your habits today, even if it is only five minutes."
+},
+{
+"q": "If reflecting on your day became a daily habit, what would be different in a month?",
+"c": "Start reflecting on your day today, even if it is only five minutes."
+},
+{
+"q": "What are you doing well that you rarely notice?",
+"c": "Write down three things you handled well this week."
+},
+{
+"q": "If visualising your goals became a daily habit, what would be different in a month?",
+"c": "Start visualising your goals today, even if it is only five minutes."
+},
+{
+"q": "If practising positive self-talk became a daily habit, what would be different in a month?",
+"c": "Start practising positive self-talk today, even if it is only five minutes."
+},
+{
+"q": "If noting what went well became a daily habit, what would be different in a month?",
+"c": "Start noting what went well today, even if it is only five minutes."
+},
+{
+"q": "If learning from a mistake became a daily habit, what would be different in a month?",
+"c": "Start learning from a mistake today, even if it is only five minutes."
+},
+{
+"q": "If celebrating a small win became a daily habit, what would be different in a month?",
+"c": "Start celebrating a small win today, even if it is only five minutes."
+},
+{
+"q": "How do you want to treat yourself on a hard day?",
+"c": "Plan one kind thing for your next hard day."
+},
+{
+"q": "If trying something new became a daily habit, what would be different in a month?",
+"c": "Start trying something new today, even if it is only five minutes."
+},
+{
+"q": "If learning about another culture became a daily habit, what would be different in a month?",
+"c": "Start learning about another culture today, even if it is only five minutes."
+},
+{
+"q": "If cooking a regional dish became a daily habit, what would be different in a month?",
+"c": "Start cooking a regional dish today, even if it is only five minutes."
+},
+{
+"q": "If learning about space became a daily habit, what would be different in a month?",
+"c": "Start learning about space today, even if it is only five minutes."
+},
+{
+"q": "If learning about nature became a daily habit, what would be different in a month?",
+"c": "Start learning about nature today, even if it is only five minutes."
+},
+{
+"q": "What conversation would feel lighter if you started it?",
+"c": "Send the first sentence."
+},
+{
+"q": "If planting a sapling became a daily habit, what would be different in a month?",
+"c": "Start planting a sapling today, even if it is only five minutes."
+},
+{
+"q": "If learning a folk song became a daily habit, what would be different in a month?",
+"c": "Start learning a folk song today, even if it is only five minutes."
+},
+{
+"q": "If practising a sport became a daily habit, what would be different in a month?",
+"c": "Start practising a sport today, even if it is only five minutes."
+},
+{
+"q": "If going for a run became a daily habit, what would be different in a month?",
+"c": "Start going for a run today, even if it is only five minutes."
+},
+{
+"q": "If doing a puzzle with family became a daily habit, what would be different in a month?",
+"c": "Start doing a puzzle with family today, even if it is only five minutes."
+},
+{
+"q": "What does your body need today?",
+"c": "Give it water, movement or rest."
+},
+{
+"q": "If writing a poem became a daily habit, what would be different in a month?",
+"c": "Start writing a poem today, even if it is only five minutes."
+},
+{
+"q": "If learning to cook one dish became a daily habit, what would be different in a month?",
+"c": "Start learning to cook one dish today, even if it is only five minutes."
+},
+{
+"q": "If making a vision board became a daily habit, what would be different in a month?",
+"c": "Start making a vision board today, even if it is only five minutes."
+},
+{
+"q": "If organising a cupboard became a daily habit, what would be different in a month?",
+"c": "Start organising a cupboard today, even if it is only five minutes."
+},
+{
+"q": "If reading to a child became a daily habit, what would be different in a month?",
+"c": "Start reading to a child today, even if it is only five minutes."
+},
+{
+"q": "Where could you be more patient?",
+"c": "Take a slow breath before reacting today."
+},
+{
+"q": "If learning a magic trick became a daily habit, what would be different in a month?",
+"c": "Start learning a magic trick today, even if it is only five minutes."
+},
+{
+"q": "If exploring a new hobby became a daily habit, what would be different in a month?",
+"c": "Start exploring a new hobby today, even if it is only five minutes."
+},
+{
+"q": "If planning a trip became a daily habit, what would be different in a month?",
+"c": "Start planning a trip today, even if it is only five minutes."
+},
+{
+"q": "If learning to budget became a daily habit, what would be different in a month?",
+"c": "Start learning to budget today, even if it is only five minutes."
+},
+{
+"q": "If studying for a goal became a daily habit, what would be different in a month?",
+"c": "Start studying for a goal today, even if it is only five minutes."
+},
+{
+"q": "What do you want to be curious about this month?",
+"c": "Look up one question you've always wondered about."
+},
+{
+"q": "What small win could walking outdoors give you today?",
+"c": "Take one small step toward walking outdoors and note how it went."
+},
+{
+"q": "What small win could reading a book give you today?",
+"c": "Take one small step toward reading a book and note how it went."
+},
+{
+"q": "What small win could stretching your body give you today?",
+"c": "Take one small step toward stretching your body and note how it went."
+},
+{
+"q": "What small win could writing in a journal give you today?",
+"c": "Take one small step toward writing in a journal and note how it went."
+},
+{
+"q": "What small win could learning a new language give you today?",
+"c": "Take one small step toward learning a new language and note how it went."
+},
+{
+"q": "What can you do today that your future self will celebrate?",
+"c": "Do it before noon."
+},
+{
+"q": "What small win could practising a musical instrument give you today?",
+"c": "Take one small step toward practising a musical instrument and note how it went."
+},
+{
+"q": "What small win could meditating quietly give you today?",
+"c": "Take one small step toward meditating quietly and note how it went."
+},
+{
+"q": "What small win could cooking a healthy meal give you today?",
+"c": "Take one small step toward cooking a healthy meal and note how it went."
+},
+{
+"q": "What small win could drawing or doodling give you today?",
+"c": "Take one small step toward drawing or doodling and note how it went."
+},
+{
+"q": "What small win could studying a new skill give you today?",
+"c": "Take one small step toward studying a new skill and note how it went."
+},
+{
+"q": "Who would you like to understand better?",
+"c": "Ask them an open question and listen."
+},
+{
+"q": "What small win could decluttering one space give you today?",
+"c": "Take one small step toward decluttering one space and note how it went."
+},
+{
+"q": "What small win could exercising give you today?",
+"c": "Take one small step toward exercising and note how it went."
+},
+{
+"q": "What small win could listening to an educational podcast give you today?",
+"c": "Take one small step toward listening to an educational podcast and note how it went."
+},
+{
+"q": "What small win could reviewing your spending give you today?",
+"c": "Take one small step toward reviewing your spending and note how it went."
+},
+{
+"q": "What small win could learning to code give you today?",
+"c": "Take one small step toward learning to code and note how it went."
+},
+{
+"q": "What would a simpler routine look like?",
+"c": "Remove one step from your morning routine."
+},
+{
+"q": "What small win could gardening or caring for plants give you today?",
+"c": "Take one small step toward gardening or caring for plants and note how it went."
+},
+{
+"q": "What small win could calling a friend give you today?",
+"c": "Take one small step toward calling a friend and note how it went."
+},
+{
+"q": "What small win could calling a family member give you today?",
+"c": "Take one small step toward calling a family member and note how it went."
+},
+{
+"q": "What small win could volunteering give you today?",
+"c": "Take one small step toward volunteering and note how it went."
+},
+{
+"q": "What small win could dancing give you today?",
+"c": "Take one small step toward dancing and note how it went."
+},
+{
+"q": "What habit are you proud of keeping?",
+"c": "Notice it today and thank yourself."
+},
+{
+"q": "What small win could swimming give you today?",
+"c": "Take one small step toward swimming and note how it went."
+},
+{
+"q": "What small win could cycling give you today?",
+"c": "Take one small step toward cycling and note how it went."
+},
+{
+"q": "What small win could singing give you today?",
+"c": "Take one small step toward singing and note how it went."
+},
+{
+"q": "What small win could taking photographs give you today?",
+"c": "Take one small step toward taking photographs and note how it went."
+},
+{
+"q": "What small win could planning your week give you today?",
+"c": "Take one small step toward planning your week and note how it went."
+},
+{
+"q": "What do you need to forgive, in yourself or someone else?",
+"c": "Write one sentence of release."
+},
+{
+"q": "What small win could practising gratitude give you today?",
+"c": "Take one small step toward practising gratitude and note how it went."
+},
+{
+"q": "What small win could cleaning one small area give you today?",
+"c": "Take one small step toward cleaning one small area and note how it went."
+},
+{
+"q": "What small win could learning first aid give you today?",
+"c": "Take one small step toward learning first aid and note how it went."
+},
+{
+"q": "What small win could practising public speaking give you today?",
+"c": "Take one small step toward practising public speaking and note how it went."
+},
+{
+"q": "What small win could writing a letter give you today?",
+"c": "Take one small step toward writing a letter and note how it went."
+},
+{
+"q": "What is beautiful about your surroundings?",
+"c": "Take a photo of one thing you usually overlook."
+},
+{
+"q": "What small win could sketching your ideas give you today?",
+"c": "Take one small step toward sketching your ideas and note how it went."
+},
+{
+"q": "What small win could learning about personal finance give you today?",
+"c": "Take one small step toward learning about personal finance and note how it went."
+},
+{
+"q": "What small win could cooking a new recipe give you today?",
+"c": "Take one small step toward cooking a new recipe and note how it went."
+},
+{
+"q": "What small win could walking without your phone give you today?",
+"c": "Take one small step toward walking without your phone and note how it went."
+},
+{
+"q": "What small win could deep breathing give you today?",
+"c": "Take one small step toward deep breathing and note how it went."
+},
+{
+"q": "What advice would you give a younger person?",
+"c": "Write it as a short note."
+},
+{
+"q": "What small win could journaling about your goals give you today?",
+"c": "Take one small step toward journaling about your goals and note how it went."
+},
+{
+"q": "What small win could reading about history give you today?",
+"c": "Take one small step toward reading about history and note how it went."
+},
+{
+"q": "What small win could solving a puzzle give you today?",
+"c": "Take one small step toward solving a puzzle and note how it went."
+},
+{
+"q": "What small win could playing a board game give you today?",
+"c": "Take one small step toward playing a board game and note how it went."
+},
+{
+"q": "What small win could organising your photos give you today?",
+"c": "Take one small step toward organising your photos and note how it went."
+},
+{
+"q": "What are you grateful for in your home?",
+"c": "Say thanks for three things in it."
+},
+{
+"q": "What small win could backing up your files give you today?",
+"c": "Take one small step toward backing up your files and note how it went."
+},
+{
+"q": "What small win could cleaning your inbox give you today?",
+"c": "Take one small step toward cleaning your inbox and note how it went."
+},
+{
+"q": "What small win could updating your resume give you today?",
+"c": "Take one small step toward updating your resume and note how it went."
+},
+{
+"q": "What small win could learning a new software tool give you today?",
+"c": "Take one small step toward learning a new software tool and note how it went."
+},
+{
+"q": "What small win could practising handwriting give you today?",
+"c": "Take one small step toward practising handwriting and note how it went."
+},
+{
+"q": "What deserves your full attention today?",
+"c": "Give it 15 minutes with your phone away."
+},
+{
+"q": "What small win could writing a short story give you today?",
+"c": "Take one small step toward writing a short story and note how it went."
+},
+{
+"q": "What small win could reading a poem give you today?",
+"c": "Take one small step toward reading a poem and note how it went."
+},
+{
+"q": "What small win could visiting a park give you today?",
+"c": "Take one small step toward visiting a park and note how it went."
+},
+{
+"q": "What small win could watching the sunset give you today?",
+"c": "Take one small step toward watching the sunset and note how it went."
+},
+{
+"q": "What small win could stargazing give you today?",
+"c": "Take one small step toward stargazing and note how it went."
+},
+{
+"q": "What goal excites you?",
+"c": "Break it into three steps and do the first."
+},
+{
+"q": "What small win could bird watching give you today?",
+"c": "Take one small step toward bird watching and note how it went."
+},
+{
+"q": "What small win could cooking for someone else give you today?",
+"c": "Take one small step toward cooking for someone else and note how it went."
+},
+{
+"q": "What small win could baking something simple give you today?",
+"c": "Take one small step toward baking something simple and note how it went."
+},
+{
+"q": "What small win could preparing tomorrow's plan give you today?",
+"c": "Take one small step toward preparing tomorrow's plan and note how it went."
+},
+{
+"q": "What small win could tidying your desk give you today?",
+"c": "Take one small step toward tidying your desk and note how it went."
+},
+{
+"q": "What do you want to say yes to?",
+"c": "Say yes to one thing that matters."
+},
+{
+"q": "What small win could sorting your clothes give you today?",
+"c": "Take one small step toward sorting your clothes and note how it went."
+},
+{
+"q": "What small win could watering your plants give you today?",
+"c": "Take one small step toward watering your plants and note how it went."
+},
+{
+"q": "What small win could playing with a pet give you today?",
+"c": "Take one small step toward playing with a pet and note how it went."
+},
+{
+"q": "What small win could doing yoga give you today?",
+"c": "Take one small step toward doing yoga and note how it went."
+},
+{
+"q": "What small win could doing a short workout give you today?",
+"c": "Take one small step toward doing a short workout and note how it went."
+},
+{
+"q": "When do you feel most like yourself?",
+"c": "Spend 10 minutes doing that."
+},
+{
+"q": "What small win could practising balance exercises give you today?",
+"c": "Take one small step toward practising balance exercises and note how it went."
+},
+{
+"q": "What small win could preparing a healthy snack give you today?",
+"c": "Take one small step toward preparing a healthy snack and note how it went."
+},
+{
+"q": "What small win could winding down before bed give you today?",
+"c": "Take one small step toward winding down before bed and note how it went."
+},
+{
+"q": "What small win could writing down three wins give you today?",
+"c": "Take one small step toward writing down three wins and note how it went."
+},
+{
+"q": "What small win could reviewing your goals give you today?",
+"c": "Take one small step toward reviewing your goals and note how it went."
+},
+{
+"q": "What does 'enough sleep' mean for you?",
+"c": "Set a bedtime alarm tonight."
+},
+{
+"q": "What small win could planning a savings target give you today?",
+"c": "Take one small step toward planning a savings target and note how it went."
+},
+{
+"q": "What small win could comparing prices before you buy give you today?",
+"c": "Take one small step toward comparing prices before you buy and note how it went."
+},
+{
+"q": "What small win could learning a keyboard shortcut give you today?",
+"c": "Take one small step toward learning a keyboard shortcut and note how it went."
+},
+{
+"q": "What small win could reading an article in depth give you today?",
+"c": "Take one small step toward reading an article in depth and note how it went."
+},
+{
+"q": "What small win could learning a new word give you today?",
+"c": "Take one small step toward learning a new word and note how it went."
+},
+{
+"q": "What change would make tomorrow lighter?",
+"c": "Prepare one thing tonight."
+},
+{
+"q": "What small win could memorising a poem give you today?",
+"c": "Take one small step toward memorising a poem and note how it went."
+},
+{
+"q": "What small win could practising mental maths give you today?",
+"c": "Take one small step toward practising mental maths and note how it went."
+},
+{
+"q": "What small win could playing chess give you today?",
+"c": "Take one small step toward playing chess and note how it went."
+},
+{
+"q": "What small win could building something with your hands give you today?",
+"c": "Take one small step toward building something with your hands and note how it went."
+},
+{
+"q": "What small win could repairing something small give you today?",
+"c": "Take one small step toward repairing something small and note how it went."
+},
+{
+"q": "What are you learning to accept?",
+"c": "Write one thing you'll stop fighting."
+},
+{
+"q": "What small win could learning to knit or craft give you today?",
+"c": "Take one small step toward learning to knit or craft and note how it went."
+},
+{
+"q": "What small win could painting give you today?",
+"c": "Take one small step toward painting and note how it went."
+},
+{
+"q": "What small win could making a playlist give you today?",
+"c": "Take one small step toward making a playlist and note how it went."
+},
+{
+"q": "What small win could exploring a new neighbourhood give you today?",
+"c": "Take one small step toward exploring a new neighbourhood and note how it went."
+},
+{
+"q": "What small win could visiting a library give you today?",
+"c": "Take one small step toward visiting a library and note how it went."
+},
+{
+"q": "What small win could meeting a neighbour give you today?",
+"c": "Take one small step toward meeting a neighbour and note how it went."
+},
+{
+"q": "What small win could helping a colleague give you today?",
+"c": "Take one small step toward helping a colleague and note how it went."
+},
+{
+"q": "What small win could thanking someone give you today?",
+"c": "Take one small step toward thanking someone and note how it went."
+},
+{
+"q": "What small win could giving kind feedback give you today?",
+"c": "Take one small step toward giving kind feedback and note how it went."
+},
+{
+"q": "What small win could listening without interrupting give you today?",
+"c": "Take one small step toward listening without interrupting and note how it went."
+},
+{
+"q": "What small win could writing a thank-you note give you today?",
+"c": "Take one small step toward writing a thank-you note and note how it went."
+},
+{
+"q": "What small win could planning a family meal give you today?",
+"c": "Take one small step toward planning a family meal and note how it went."
+},
+{
+"q": "What small win could playing with children give you today?",
+"c": "Take one small step toward playing with children and note how it went."
+},
+{
+"q": "What small win could spending time with elders give you today?",
+"c": "Take one small step toward spending time with elders and note how it went."
+},
+{
+"q": "What small win could sharing a story with someone give you today?",
+"c": "Take one small step toward sharing a story with someone and note how it went."
+},
+{
+"q": "What small win could asking someone about their day give you today?",
+"c": "Take one small step toward asking someone about their day and note how it went."
+},
+{
+"q": "What small win could taking a break from screens give you today?",
+"c": "Take one small step toward taking a break from screens and note how it went."
+},
+{
+"q": "What small win could reading offline give you today?",
+"c": "Take one small step toward reading offline and note how it went."
+},
+{
+"q": "What small win could unsubscribing from clutter give you today?",
+"c": "Take one small step toward unsubscribing from clutter and note how it went."
+},
+{
+"q": "What small win could organising your files give you today?",
+"c": "Take one small step toward organising your files and note how it went."
+},
+{
+"q": "What small win could learning about online safety give you today?",
+"c": "Take one small step toward learning about online safety and note how it went."
+},
+{
+"q": "What small win could updating your passwords give you today?",
+"c": "Take one small step toward updating your passwords and note how it went."
+},
+{
+"q": "What small win could reviewing app permissions give you today?",
+"c": "Take one small step toward reviewing app permissions and note how it went."
+},
+{
+"q": "What small win could writing your to-do list give you today?",
+"c": "Take one small step toward writing your to-do list and note how it went."
+},
+{
+"q": "What small win could focusing on a single task give you today?",
+"c": "Take one small step toward focusing on a single task and note how it went."
+},
+{
+"q": "What small win could working in a quiet block give you today?",
+"c": "Take one small step toward working in a quiet block and note how it went."
+},
+{
+"q": "What small win could reviewing your week give you today?",
+"c": "Take one small step toward reviewing your week and note how it went."
+},
+{
+"q": "What small win could setting one weekly goal give you today?",
+"c": "Take one small step toward setting one weekly goal and note how it went."
+},
+{
+"q": "What small win could tracking your habits give you today?",
+"c": "Take one small step toward tracking your habits and note how it went."
+},
+{
+"q": "What small win could reflecting on your day give you today?",
+"c": "Take one small step toward reflecting on your day and note how it went."
+},
+{
+"q": "What small win could visualising your goals give you today?",
+"c": "Take one small step toward visualising your goals and note how it went."
+},
+{
+"q": "What small win could practising positive self-talk give you today?",
+"c": "Take one small step toward practising positive self-talk and note how it went."
+},
+{
+"q": "What small win could noting what went well give you today?",
+"c": "Take one small step toward noting what went well and note how it went."
+},
+{
+"q": "What small win could learning from a mistake give you today?",
+"c": "Take one small step toward learning from a mistake and note how it went."
+},
+{
+"q": "What small win could celebrating a small win give you today?",
+"c": "Take one small step toward celebrating a small win and note how it went."
+},
+{
+"q": "What small win could trying something new give you today?",
+"c": "Take one small step toward trying something new and note how it went."
+},
+{
+"q": "What small win could learning about another culture give you today?",
+"c": "Take one small step toward learning about another culture and note how it went."
+},
+{
+"q": "What small win could cooking a regional dish give you today?",
+"c": "Take one small step toward cooking a regional dish and note how it went."
+},
+{
+"q": "What small win could learning about space give you today?",
+"c": "Take one small step toward learning about space and note how it went."
+},
+{
+"q": "What small win could learning about nature give you today?",
+"c": "Take one small step toward learning about nature and note how it went."
+},
+{
+"q": "What small win could planting a sapling give you today?",
+"c": "Take one small step toward planting a sapling and note how it went."
+},
+{
+"q": "What small win could learning a folk song give you today?",
+"c": "Take one small step toward learning a folk song and note how it went."
+},
+{
+"q": "What small win could practising a sport give you today?",
+"c": "Take one small step toward practising a sport and note how it went."
+},
+{
+"q": "What small win could going for a run give you today?",
+"c": "Take one small step toward going for a run and note how it went."
+},
+{
+"q": "What small win could doing a puzzle with family give you today?",
+"c": "Take one small step toward doing a puzzle with family and note how it went."
+},
+{
+"q": "What small win could writing a poem give you today?",
+"c": "Take one small step toward writing a poem and note how it went."
+},
+{
+"q": "What small win could learning to cook one dish give you today?",
+"c": "Take one small step toward learning to cook one dish and note how it went."
+},
+{
+"q": "What small win could making a vision board give you today?",
+"c": "Take one small step toward making a vision board and note how it went."
+},
+{
+"q": "What small win could organising a cupboard give you today?",
+"c": "Take one small step toward organising a cupboard and note how it went."
+},
+{
+"q": "What small win could reading to a child give you today?",
+"c": "Take one small step toward reading to a child and note how it went."
+},
+{
+"q": "What small win could learning a magic trick give you today?",
+"c": "Take one small step toward learning a magic trick and note how it went."
+},
+{
+"q": "What small win could exploring a new hobby give you today?",
+"c": "Take one small step toward exploring a new hobby and note how it went."
+},
+{
+"q": "What small win could planning a trip give you today?",
+"c": "Take one small step toward planning a trip and note how it went."
+},
+{
+"q": "What small win could learning to budget give you today?",
+"c": "Take one small step toward learning to budget and note how it went."
+},
+{
+"q": "What small win could studying for a goal give you today?",
+"c": "Take one small step toward studying for a goal and note how it went."
+}
+]

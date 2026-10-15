@@ -1,0 +1,1207 @@
+[
+{
+"id": "f1",
+"t": "💡 LIFE TIP",
+"x": "Decide tomorrow's first task tonight. Mornings get easier."
+},
+{
+"id": "f2",
+"t": "🧠 DID YOU KNOW?",
+"x": "A leap year has 366 days because Earth takes about 365.25 days to orbit the Sun."
+},
+{
+"id": "f3",
+"t": "🤔 WHAT IF?",
+"x": "What if you could restart today? What is the first thing you'd change?"
+},
+{
+"id": "f4",
+"t": "🧩 QUICK PUZZLE",
+"x": "What has keys but can't open locks? (Think, then answer in your journal.)"
+},
+{
+"id": "f5",
+"t": "💰 MONEY TIP",
+"x": "Pay yourself first: move a small amount to savings the day money arrives."
+},
+{
+"id": "f6",
+"t": "💼 CAREER TIP",
+"x": "Write down one win each week. It makes reviews and interviews far easier."
+},
+{
+"id": "f7",
+"t": "📱 DIGITAL SAFETY",
+"x": "Turn on two-step verification for your email first; it protects your other accounts."
+},
+{
+"id": "f8",
+"t": "🚀 PRODUCTIVITY TIP",
+"x": "Work in 25-minute focus blocks with 5-minute breaks."
+},
+{
+"id": "f9",
+"t": "💡 LIFE TIP",
+"x": "Write down tomorrow's top three tasks before bed."
+},
+{
+"id": "f10",
+"t": "💡 LIFE TIP",
+"x": "Say thank you specifically: mention exactly what the person did."
+},
+{
+"id": "f11",
+"t": "💡 LIFE TIP",
+"x": "A 10-minute walk after a meal is an easy way to reset your energy."
+},
+{
+"id": "f12",
+"t": "🧠 DID YOU KNOW?",
+"x": "Honey found in ancient tombs was still edible after thousands of years."
+},
+{
+"id": "f13",
+"t": "🧠 DID YOU KNOW?",
+"x": "Octopuses have three hearts."
+},
+{
+"id": "f14",
+"t": "🧠 DID YOU KNOW?",
+"x": "A day on Venus is longer than its year."
+},
+{
+"id": "f15",
+"t": "🤔 WHAT IF?",
+"x": "What if you spent an hour today on something with no goal at all?"
+},
+{
+"id": "f16",
+"t": "🤔 WHAT IF?",
+"x": "What if you replaced one scroll session with a walk?"
+},
+{
+"id": "f17",
+"t": "🤔 WHAT IF?",
+"x": "What if you asked for help with the thing you're stuck on?"
+},
+{
+"id": "f18",
+"t": "🧩 QUICK PUZZLE",
+"x": "I speak without a mouth and hear without ears. What am I? (An echo.)"
+},
+{
+"id": "f19",
+"t": "🧩 QUICK PUZZLE",
+"x": "What gets wetter the more it dries? (A towel.)"
+},
+{
+"id": "f20",
+"t": "🧩 QUICK PUZZLE",
+"x": "What comes next: 2, 4, 8, 16, ...? (32)"
+},
+{
+"id": "f21",
+"t": "💰 MONEY TIP",
+"x": "Wait 24 hours before any non-essential purchase."
+},
+{
+"id": "f22",
+"t": "💰 MONEY TIP",
+"x": "Track your spending for one week. Awareness comes before budgeting."
+},
+{
+"id": "f23",
+"t": "💰 MONEY TIP",
+"x": "Even a small automatic transfer to savings builds the habit."
+},
+{
+"id": "f24",
+"t": "💼 CAREER TIP",
+"x": "Ask your manager what success looks like in the next three months."
+},
+{
+"id": "f25",
+"t": "💼 CAREER TIP",
+"x": "Keep a running list of what you learned each month."
+},
+{
+"id": "f26",
+"t": "💼 CAREER TIP",
+"x": "Before a meeting, write down the one outcome you want."
+},
+{
+"id": "f27",
+"t": "📱 DIGITAL SAFETY",
+"x": "Never share one-time passwords (OTPs) with anyone, even someone claiming to be your bank."
+},
+{
+"id": "f28",
+"t": "📱 DIGITAL SAFETY",
+"x": "Keep your phone and apps updated; updates often fix security holes."
+},
+{
+"id": "f29",
+"t": "📱 DIGITAL SAFETY",
+"x": "Use a different password for every important account, ideally with a password manager."
+},
+{
+"id": "f30",
+"t": "🚀 PRODUCTIVITY TIP",
+"x": "Do the hardest task first, while your energy is high."
+},
+{
+"id": "f31",
+"t": "🚀 PRODUCTIVITY TIP",
+"x": "If a task takes under two minutes, do it now."
+},
+{
+"id": "f32",
+"t": "🚀 PRODUCTIVITY TIP",
+"x": "Silence notifications for one focus hour."
+},
+{
+"id": "f33",
+"t": "💡 LIFE TIP",
+"x": "Drink a glass of water before your first coffee or tea."
+},
+{
+"id": "f34",
+"t": "💡 LIFE TIP",
+"x": "Keep your keys, wallet and phone in the same place every day."
+},
+{
+"id": "f35",
+"t": "💡 LIFE TIP",
+"x": "Spend five minutes tidying before you sleep; morning-you will notice."
+},
+{
+"id": "f36",
+"t": "💡 LIFE TIP",
+"x": "Plan one thing to look forward to each week."
+},
+{
+"id": "f37",
+"t": "🧠 DID YOU KNOW?",
+"x": "Bananas are berries, but strawberries are not."
+},
+{
+"id": "f38",
+"t": "🧠 DID YOU KNOW?",
+"x": "Sound travels about four times faster in water than in air."
+},
+{
+"id": "f39",
+"t": "🧠 DID YOU KNOW?",
+"x": "Lightning can be about five times hotter than the surface of the Sun."
+},
+{
+"id": "f40",
+"t": "🧠 DID YOU KNOW?",
+"x": "Wombat droppings are cube-shaped."
+},
+{
+"id": "f41",
+"t": "🤔 WHAT IF?",
+"x": "What if you asked one better question in every conversation today?"
+},
+{
+"id": "f42",
+"t": "🤔 WHAT IF?",
+"x": "What if you finished one thing before starting another?"
+},
+{
+"id": "f43",
+"t": "🤔 WHAT IF?",
+"x": "What if you took ten quiet minutes before checking your phone?"
+},
+{
+"id": "f44",
+"t": "🤔 WHAT IF?",
+"x": "What if you praised someone's effort instead of their result?"
+},
+{
+"id": "f45",
+"t": "🧩 QUICK PUZZLE",
+"x": "What has hands but cannot clap? (A clock.)"
+},
+{
+"id": "f46",
+"t": "🧩 QUICK PUZZLE",
+"x": "The more you take, the more you leave behind. What are they? (Footsteps.)"
+},
+{
+"id": "f47",
+"t": "🧩 QUICK PUZZLE",
+"x": "What can you break without touching it? (A promise.)"
+},
+{
+"id": "f48",
+"t": "🧩 QUICK PUZZLE",
+"x": "What comes once in a minute, twice in a moment, but never in a thousand years? (The letter M.)"
+},
+{
+"id": "f49",
+"t": "💰 MONEY TIP",
+"x": "Before you buy, ask: will I still use this in three months?"
+},
+{
+"id": "f50",
+"t": "💰 MONEY TIP",
+"x": "Cancel one subscription you haven't used this month."
+},
+{
+"id": "f51",
+"t": "💰 MONEY TIP",
+"x": "Compare unit prices, not package prices."
+},
+{
+"id": "f52",
+"t": "💰 MONEY TIP",
+"x": "Pay bills on the day you get paid so you don't forget."
+},
+{
+"id": "f53",
+"t": "💼 CAREER TIP",
+"x": "Say 'I'll find out' instead of guessing, then follow up."
+},
+{
+"id": "f54",
+"t": "💼 CAREER TIP",
+"x": "Thank people publicly and give feedback privately."
+},
+{
+"id": "f55",
+"t": "💼 CAREER TIP",
+"x": "Update your resume every six months, not only when you need it."
+},
+{
+"id": "f56",
+"t": "💼 CAREER TIP",
+"x": "Learn one tool your team uses that you have never explored."
+},
+{
+"id": "f57",
+"t": "📱 DIGITAL SAFETY",
+"x": "Check the sender's real address before clicking any link in an email."
+},
+{
+"id": "f58",
+"t": "📱 DIGITAL SAFETY",
+"x": "Turn on screen lock with a PIN or biometrics."
+},
+{
+"id": "f59",
+"t": "📱 DIGITAL SAFETY",
+"x": "Be careful on public Wi-Fi; avoid banking on it."
+},
+{
+"id": "f60",
+"t": "📱 DIGITAL SAFETY",
+"x": "Review which apps can use your camera, microphone and location."
+},
+{
+"id": "f61",
+"t": "🚀 PRODUCTIVITY TIP",
+"x": "Plan your day around three priorities, not thirty tasks."
+},
+{
+"id": "f62",
+"t": "🚀 PRODUCTIVITY TIP",
+"x": "Batch similar tasks like emails or calls together."
+},
+{
+"id": "f63",
+"t": "🚀 PRODUCTIVITY TIP",
+"x": "Take a short break every hour to stand and stretch."
+},
+{
+"id": "f64",
+"t": "🚀 PRODUCTIVITY TIP",
+"x": "End each work day by writing the first task for tomorrow."
+},
+{
+"id": "f65",
+"t": "💡 LIFE TIP",
+"x": "Smile at one stranger today; small moments add up."
+},
+{
+"id": "f66",
+"t": "💡 LIFE TIP",
+"x": "Say no kindly and clearly instead of yes reluctantly."
+},
+{
+"id": "f67",
+"t": "🧠 DID YOU KNOW?",
+"x": "Some studies suggest honeybees can learn to recognise human faces."
+},
+{
+"id": "f68",
+"t": "🧠 DID YOU KNOW?",
+"x": "Your brain uses roughly a fifth of your body's energy."
+},
+{
+"id": "f69",
+"t": "🤔 WHAT IF?",
+"x": "What if you wrote down what went well before bed tonight?"
+},
+{
+"id": "f70",
+"t": "🤔 WHAT IF?",
+"x": "What if you answered fear with curiosity?"
+},
+{
+"id": "f71",
+"t": "🧩 QUICK PUZZLE",
+"x": "What has a neck but no head? (A bottle.)"
+},
+{
+"id": "f72",
+"t": "🧩 QUICK PUZZLE",
+"x": "What gets bigger the more you take away? (A hole.)"
+},
+{
+"id": "f73",
+"t": "💰 MONEY TIP",
+"x": "Review your bank statement once a month for surprises."
+},
+{
+"id": "f74",
+"t": "💰 MONEY TIP",
+"x": "Save first, then spend what's left."
+},
+{
+"id": "f75",
+"t": "💼 CAREER TIP",
+"x": "Ask for feedback on one specific thing, not in general."
+},
+{
+"id": "f76",
+"t": "💼 CAREER TIP",
+"x": "Build your network by helping others first."
+},
+{
+"id": "f77",
+"t": "📱 DIGITAL SAFETY",
+"x": "Log out of accounts on shared devices."
+},
+{
+"id": "f78",
+"t": "📱 DIGITAL SAFETY",
+"x": "Back up important photos and files in two places."
+},
+{
+"id": "f79",
+"t": "🚀 PRODUCTIVITY TIP",
+"x": "Write it down: your brain is for thinking, not remembering."
+},
+{
+"id": "f80",
+"t": "🚀 PRODUCTIVITY TIP",
+"x": "Start a 5-minute timer when you feel stuck."
+},
+{
+"id": "f81",
+"t": "💰 MONEY TIP",
+"x": "Write down every expense for a week; patterns appear fast."
+},
+{
+"id": "f82",
+"t": "💰 MONEY TIP",
+"x": "Keep an emergency fund worth three to six months of expenses."
+},
+{
+"id": "f83",
+"t": "💰 MONEY TIP",
+"x": "Pay off the highest-interest debt first."
+},
+{
+"id": "f84",
+"t": "💰 MONEY TIP",
+"x": "Automate savings so you never have to remember."
+},
+{
+"id": "f85",
+"t": "💰 MONEY TIP",
+"x": "Compare insurance and bill plans once a year."
+},
+{
+"id": "f86",
+"t": "💰 MONEY TIP",
+"x": "Avoid shopping when you are tired, hungry or upset."
+},
+{
+"id": "f87",
+"t": "💰 MONEY TIP",
+"x": "Use a shopping list and stick to it."
+},
+{
+"id": "f88",
+"t": "💰 MONEY TIP",
+"x": "Check subscriptions every quarter and cancel unused ones."
+},
+{
+"id": "f89",
+"t": "💰 MONEY TIP",
+"x": "Ask whether a purchase is a need or a want before you buy."
+},
+{
+"id": "f90",
+"t": "💰 MONEY TIP",
+"x": "Start investing early, even with small amounts."
+},
+{
+"id": "f91",
+"t": "💰 MONEY TIP",
+"x": "Spread investments instead of putting everything in one place."
+},
+{
+"id": "f92",
+"t": "💰 MONEY TIP",
+"x": "Check your credit report once a year."
+},
+{
+"id": "f93",
+"t": "💰 MONEY TIP",
+"x": "Never lend money you can't afford to lose."
+},
+{
+"id": "f94",
+"t": "💰 MONEY TIP",
+"x": "Set a monthly fun-money limit so budgeting feels sustainable."
+},
+{
+"id": "f95",
+"t": "💰 MONEY TIP",
+"x": "Keep important financial documents in one safe place."
+},
+{
+"id": "f96",
+"t": "💰 MONEY TIP",
+"x": "Negotiate: many prices and rates are flexible if you ask."
+},
+{
+"id": "f97",
+"t": "💰 MONEY TIP",
+"x": "Pay yourself first: save before you spend."
+},
+{
+"id": "f98",
+"t": "💰 MONEY TIP",
+"x": "Be wary of schemes promising guaranteed high returns."
+},
+{
+"id": "f99",
+"t": "💰 MONEY TIP",
+"x": "Track your net worth every few months, not every day."
+},
+{
+"id": "f100",
+"t": "💰 MONEY TIP",
+"x": "Spend more on things you use daily and less on things you rarely use."
+},
+{
+"id": "f101",
+"t": "💰 MONEY TIP",
+"x": "Plan for irregular costs like festivals, repairs and travel."
+},
+{
+"id": "f102",
+"t": "💰 MONEY TIP",
+"x": "Teach children about money early and honestly."
+},
+{
+"id": "f103",
+"t": "💰 MONEY TIP",
+"x": "Celebrate small financial wins like paying off a bill."
+},
+{
+"id": "f104",
+"t": "💰 MONEY TIP",
+"x": "Review your insurance cover whenever your life changes."
+},
+{
+"id": "f105",
+"t": "💼 CAREER TIP",
+"x": "Learn one new skill every quarter."
+},
+{
+"id": "f106",
+"t": "💼 CAREER TIP",
+"x": "Ask for feedback regularly, not only at review time."
+},
+{
+"id": "f107",
+"t": "💼 CAREER TIP",
+"x": "Keep a record of your achievements."
+},
+{
+"id": "f108",
+"t": "💼 CAREER TIP",
+"x": "Build relationships before you need them."
+},
+{
+"id": "f109",
+"t": "💼 CAREER TIP",
+"x": "Write clear emails: lead with the action you need."
+},
+{
+"id": "f110",
+"t": "💼 CAREER TIP",
+"x": "Prepare three questions before every meeting."
+},
+{
+"id": "f111",
+"t": "💼 CAREER TIP",
+"x": "Say no politely to extra work when you are at capacity."
+},
+{
+"id": "f112",
+"t": "💼 CAREER TIP",
+"x": "Find a mentor and be a mentor."
+},
+{
+"id": "f113",
+"t": "💼 CAREER TIP",
+"x": "Review your career goals every month."
+},
+{
+"id": "f114",
+"t": "💼 CAREER TIP",
+"x": "Own your mistakes and share what you learned."
+},
+{
+"id": "f115",
+"t": "💼 CAREER TIP",
+"x": "Practise explaining complex ideas in simple words."
+},
+{
+"id": "f116",
+"t": "💼 CAREER TIP",
+"x": "Take breaks; rested people make better decisions."
+},
+{
+"id": "f117",
+"t": "💼 CAREER TIP",
+"x": "Update your professional profile twice a year."
+},
+{
+"id": "f118",
+"t": "💼 CAREER TIP",
+"x": "Give credit generously."
+},
+{
+"id": "f119",
+"t": "💼 CAREER TIP",
+"x": "Listen first in conversations with colleagues."
+},
+{
+"id": "f120",
+"t": "💼 CAREER TIP",
+"x": "Document processes so others can follow them."
+},
+{
+"id": "f121",
+"t": "💼 CAREER TIP",
+"x": "Know your strengths and use them daily."
+},
+{
+"id": "f122",
+"t": "💼 CAREER TIP",
+"x": "Before asking for more time, ask what would make the task easier."
+},
+{
+"id": "f123",
+"t": "💼 CAREER TIP",
+"x": "Set boundaries around your work hours."
+},
+{
+"id": "f124",
+"t": "💼 CAREER TIP",
+"x": "Take on one stretch project each year."
+},
+{
+"id": "f125",
+"t": "💼 CAREER TIP",
+"x": "Read about your industry for 15 minutes a day."
+},
+{
+"id": "f126",
+"t": "💼 CAREER TIP",
+"x": "Follow up after meetings with a short summary."
+},
+{
+"id": "f127",
+"t": "💼 CAREER TIP",
+"x": "Be reliable in small things; it builds trust."
+},
+{
+"id": "f128",
+"t": "💼 CAREER TIP",
+"x": "Look for ways to help your team succeed."
+},
+{
+"id": "f129",
+"t": "🚀 PRODUCTIVITY TIP",
+"x": "Do your most important task first."
+},
+{
+"id": "f130",
+"t": "🚀 PRODUCTIVITY TIP",
+"x": "Break big tasks into steps you can finish in 30 minutes."
+},
+{
+"id": "f131",
+"t": "🚀 PRODUCTIVITY TIP",
+"x": "Use a timer to stay focused."
+},
+{
+"id": "f132",
+"t": "🚀 PRODUCTIVITY TIP",
+"x": "Keep your phone out of reach while working."
+},
+{
+"id": "f133",
+"t": "🚀 PRODUCTIVITY TIP",
+"x": "Plan tomorrow tonight."
+},
+{
+"id": "f134",
+"t": "🚀 PRODUCTIVITY TIP",
+"x": "Batch similar tasks together."
+},
+{
+"id": "f135",
+"t": "🚀 PRODUCTIVITY TIP",
+"x": "Decline meetings without a clear purpose."
+},
+{
+"id": "f136",
+"t": "🚀 PRODUCTIVITY TIP",
+"x": "Keep one task list instead of many."
+},
+{
+"id": "f137",
+"t": "🚀 PRODUCTIVITY TIP",
+"x": "Take a short walk when you feel stuck."
+},
+{
+"id": "f138",
+"t": "🚀 PRODUCTIVITY TIP",
+"x": "Finish what you start before starting something new."
+},
+{
+"id": "f139",
+"t": "🚀 PRODUCTIVITY TIP",
+"x": "Clear your desk before you leave."
+},
+{
+"id": "f140",
+"t": "🚀 PRODUCTIVITY TIP",
+"x": "Use the two-minute rule: do quick tasks right away."
+},
+{
+"id": "f141",
+"t": "🚀 PRODUCTIVITY TIP",
+"x": "Turn off non-essential notifications."
+},
+{
+"id": "f142",
+"t": "🚀 PRODUCTIVITY TIP",
+"x": "Check email at set times instead of constantly."
+},
+{
+"id": "f143",
+"t": "🚀 PRODUCTIVITY TIP",
+"x": "Work in focused sprints with short breaks."
+},
+{
+"id": "f144",
+"t": "🚀 PRODUCTIVITY TIP",
+"x": "Review your week every Friday."
+},
+{
+"id": "f145",
+"t": "🚀 PRODUCTIVITY TIP",
+"x": "Delegate tasks that others can do well."
+},
+{
+"id": "f146",
+"t": "🚀 PRODUCTIVITY TIP",
+"x": "Protect your most energetic hours for deep work."
+},
+{
+"id": "f147",
+"t": "🚀 PRODUCTIVITY TIP",
+"x": "Reduce choices: plan meals and outfits ahead."
+},
+{
+"id": "f148",
+"t": "🚀 PRODUCTIVITY TIP",
+"x": "Track where your time goes for a few days."
+},
+{
+"id": "f149",
+"t": "🚀 PRODUCTIVITY TIP",
+"x": "Aim for progress, not perfection."
+},
+{
+"id": "f150",
+"t": "🚀 PRODUCTIVITY TIP",
+"x": "Reward yourself after finishing hard tasks."
+},
+{
+"id": "f151",
+"t": "🚀 PRODUCTIVITY TIP",
+"x": "Keep a not-to-do list of habits to avoid."
+},
+{
+"id": "f152",
+"t": "🚀 PRODUCTIVITY TIP",
+"x": "Write down ideas so your mind can let go of them."
+},
+{
+"id": "f153",
+"t": "📱 DIGITAL SAFETY",
+"x": "Use a unique password for every important account."
+},
+{
+"id": "f154",
+"t": "📱 DIGITAL SAFETY",
+"x": "Turn on two-step verification wherever it is offered."
+},
+{
+"id": "f155",
+"t": "📱 DIGITAL SAFETY",
+"x": "Never share OTPs, PINs or card details with anyone."
+},
+{
+"id": "f156",
+"t": "📱 DIGITAL SAFETY",
+"x": "Check the sender before opening any attachment."
+},
+{
+"id": "f157",
+"t": "📱 DIGITAL SAFETY",
+"x": "Be careful with links in messages from unknown numbers."
+},
+{
+"id": "f158",
+"t": "📱 DIGITAL SAFETY",
+"x": "Install apps only from the official app store."
+},
+{
+"id": "f159",
+"t": "📱 DIGITAL SAFETY",
+"x": "Keep your phone and apps updated."
+},
+{
+"id": "f160",
+"t": "📱 DIGITAL SAFETY",
+"x": "Review app permissions regularly."
+},
+{
+"id": "f161",
+"t": "📱 DIGITAL SAFETY",
+"x": "Use a screen lock on every device."
+},
+{
+"id": "f162",
+"t": "📱 DIGITAL SAFETY",
+"x": "Back up your photos and files regularly."
+},
+{
+"id": "f163",
+"t": "📱 DIGITAL SAFETY",
+"x": "Avoid banking on public Wi-Fi."
+},
+{
+"id": "f164",
+"t": "📱 DIGITAL SAFETY",
+"x": "Verify unexpected payment requests by calling the person directly."
+},
+{
+"id": "f165",
+"t": "📱 DIGITAL SAFETY",
+"x": "Never scan a QR code to receive money."
+},
+{
+"id": "f166",
+"t": "📱 DIGITAL SAFETY",
+"x": "Ignore messages claiming you have won a prize."
+},
+{
+"id": "f167",
+"t": "📱 DIGITAL SAFETY",
+"x": "Log out from shared computers."
+},
+{
+"id": "f168",
+"t": "📱 DIGITAL SAFETY",
+"x": "Keep your social media profiles private by default."
+},
+{
+"id": "f169",
+"t": "📱 DIGITAL SAFETY",
+"x": "Think twice before sharing your location online."
+},
+{
+"id": "f170",
+"t": "📱 DIGITAL SAFETY",
+"x": "Teach family members, especially elders, about scams."
+},
+{
+"id": "f171",
+"t": "📱 DIGITAL SAFETY",
+"x": "Use a password manager."
+},
+{
+"id": "f172",
+"t": "📱 DIGITAL SAFETY",
+"x": "Check your bank statements for unfamiliar transactions."
+},
+{
+"id": "f173",
+"t": "📱 DIGITAL SAFETY",
+"x": "Report suspicious calls and messages to the relevant authorities."
+},
+{
+"id": "f174",
+"t": "📱 DIGITAL SAFETY",
+"x": "Be wary of urgent messages demanding quick action."
+},
+{
+"id": "f175",
+"t": "📱 DIGITAL SAFETY",
+"x": "Delete old accounts you no longer use."
+},
+{
+"id": "f176",
+"t": "📱 DIGITAL SAFETY",
+"x": "Cover your webcam when you are not using it."
+},
+{
+"id": "f177",
+"t": "💡 LIFE TIP",
+"x": "Drink a glass of water when you wake up."
+},
+{
+"id": "f178",
+"t": "💡 LIFE TIP",
+"x": "Spend some time outdoors every day."
+},
+{
+"id": "f179",
+"t": "💡 LIFE TIP",
+"x": "Greet people with a smile."
+},
+{
+"id": "f180",
+"t": "💡 LIFE TIP",
+"x": "Learn something small every day."
+},
+{
+"id": "f181",
+"t": "💡 LIFE TIP",
+"x": "Go to bed at a regular time."
+},
+{
+"id": "f182",
+"t": "💡 LIFE TIP",
+"x": "Spend time with people who lift you up."
+},
+{
+"id": "f183",
+"t": "💡 LIFE TIP",
+"x": "Write down three things you are grateful for."
+},
+{
+"id": "f184",
+"t": "💡 LIFE TIP",
+"x": "Pay attention to your posture, eyes and teeth."
+},
+{
+"id": "f185",
+"t": "💡 LIFE TIP",
+"x": "Let go of grudges; they cost you energy."
+},
+{
+"id": "f186",
+"t": "💡 LIFE TIP",
+"x": "Say thank you often."
+},
+{
+"id": "f187",
+"t": "💡 LIFE TIP",
+"x": "Do one kind thing without expecting anything back."
+},
+{
+"id": "f188",
+"t": "💡 LIFE TIP",
+"x": "Take a short walk after meals."
+},
+{
+"id": "f189",
+"t": "💡 LIFE TIP",
+"x": "Keep a book nearby for free moments."
+},
+{
+"id": "f190",
+"t": "💡 LIFE TIP",
+"x": "Declutter one small thing every week."
+},
+{
+"id": "f191",
+"t": "💡 LIFE TIP",
+"x": "Listen to music you love."
+},
+{
+"id": "f192",
+"t": "💡 LIFE TIP",
+"x": "Call someone you haven't spoken to in a while."
+},
+{
+"id": "f193",
+"t": "💡 LIFE TIP",
+"x": "Learn to cook a few simple dishes."
+},
+{
+"id": "f194",
+"t": "💡 LIFE TIP",
+"x": "Take photos of ordinary happy moments."
+},
+{
+"id": "f195",
+"t": "💡 LIFE TIP",
+"x": "Practise patience in traffic and queues."
+},
+{
+"id": "f196",
+"t": "💡 LIFE TIP",
+"x": "Create a small ritual that calms you."
+},
+{
+"id": "f197",
+"t": "💡 LIFE TIP",
+"x": "Laugh every day."
+},
+{
+"id": "f198",
+"t": "💡 LIFE TIP",
+"x": "Ask for help when you need it."
+},
+{
+"id": "f199",
+"t": "💡 LIFE TIP",
+"x": "Listen to the stories of your elders."
+},
+{
+"id": "f200",
+"t": "💡 LIFE TIP",
+"x": "Be curious about people."
+},
+{
+"id": "f201",
+"t": "🧠 DID YOU KNOW?",
+"x": "Sunlight takes about eight minutes to reach Earth."
+},
+{
+"id": "f202",
+"t": "🧠 DID YOU KNOW?",
+"x": "Sound cannot travel through the vacuum of space."
+},
+{
+"id": "f203",
+"t": "🧠 DID YOU KNOW?",
+"x": "A day on Mars lasts about 24 hours and 37 minutes."
+},
+{
+"id": "f204",
+"t": "🧠 DID YOU KNOW?",
+"x": "Water covers about 71% of Earth's surface."
+},
+{
+"id": "f205",
+"t": "🧠 DID YOU KNOW?",
+"x": "An adult human body has 206 bones."
+},
+{
+"id": "f206",
+"t": "🧠 DID YOU KNOW?",
+"x": "Your heart beats about 100,000 times a day."
+},
+{
+"id": "f207",
+"t": "🧠 DID YOU KNOW?",
+"x": "Bamboo is one of the fastest-growing plants on Earth."
+},
+{
+"id": "f208",
+"t": "🧠 DID YOU KNOW?",
+"x": "Tigers have stripes on their skin, not only in their fur."
+},
+{
+"id": "f209",
+"t": "🧠 DID YOU KNOW?",
+"x": "The banyan is India's national tree."
+},
+{
+"id": "f210",
+"t": "🧠 DID YOU KNOW?",
+"x": "The peacock is India's national bird."
+},
+{
+"id": "f211",
+"t": "🧠 DID YOU KNOW?",
+"x": "Ancient Indian mathematicians developed the concept of zero as a number."
+},
+{
+"id": "f212",
+"t": "🧠 DID YOU KNOW?",
+"x": "Chess is believed to have originated in India as chaturanga."
+},
+{
+"id": "f213",
+"t": "🧠 DID YOU KNOW?",
+"x": "The Gangetic river dolphin is India's national aquatic animal."
+},
+{
+"id": "f214",
+"t": "🧠 DID YOU KNOW?",
+"x": "Lightning strikes somewhere on Earth about 100 times every second."
+},
+{
+"id": "f215",
+"t": "🧠 DID YOU KNOW?",
+"x": "The Moon is slowly moving away from Earth, by about 3.8 centimetres a year."
+},
+{
+"id": "f216",
+"t": "🧠 DID YOU KNOW?",
+"x": "A tree can absorb roughly 20 kilograms of carbon dioxide in a year."
+},
+{
+"id": "f217",
+"t": "🧠 DID YOU KNOW?",
+"x": "Saffron is among the world's most expensive spices."
+},
+{
+"id": "f218",
+"t": "🧠 DID YOU KNOW?",
+"x": "National Science Day on 28 February marks the discovery of the Raman effect."
+},
+{
+"id": "f219",
+"t": "🧠 DID YOU KNOW?",
+"x": "The Indian Ocean is the third largest ocean in the world."
+},
+{
+"id": "f220",
+"t": "🧠 DID YOU KNOW?",
+"x": "A group of crows is called a murder."
+},
+{
+"id": "f221",
+"t": "🧩 QUICK PUZZLE",
+"x": "What has to be broken before you can use it? (An egg.)"
+},
+{
+"id": "f222",
+"t": "🧩 QUICK PUZZLE",
+"x": "What goes up but never comes down? (Your age.)"
+},
+{
+"id": "f223",
+"t": "🧩 QUICK PUZZLE",
+"x": "What is full of holes but still holds water? (A sponge.)"
+},
+{
+"id": "f224",
+"t": "🧩 QUICK PUZZLE",
+"x": "What can travel around the world while staying in a corner? (A stamp.)"
+},
+{
+"id": "f225",
+"t": "🧩 QUICK PUZZLE",
+"x": "What has one eye but cannot see? (A needle.)"
+},
+{
+"id": "f226",
+"t": "🧩 QUICK PUZZLE",
+"x": "What is always in front of you but can't be seen? (The future.)"
+},
+{
+"id": "f227",
+"t": "🧩 QUICK PUZZLE",
+"x": "What runs but never walks? (A river.)"
+},
+{
+"id": "f228",
+"t": "🧩 QUICK PUZZLE",
+"x": "What has teeth but cannot bite? (A comb.)"
+},
+{
+"id": "f229",
+"t": "🧩 QUICK PUZZLE",
+"x": "What can fill a room but takes up no space? (Light.)"
+},
+{
+"id": "f230",
+"t": "🧩 QUICK PUZZLE",
+"x": "What belongs to you but is used more by others? (Your name.)"
+},
+{
+"id": "f231",
+"t": "🧩 QUICK PUZZLE",
+"x": "What begins with T, ends with T and has T inside it? (A teapot.)"
+},
+{
+"id": "f232",
+"t": "🧩 QUICK PUZZLE",
+"x": "How many months have 28 days? (All of them.)"
+},
+{
+"id": "f233",
+"t": "🧩 QUICK PUZZLE",
+"x": "What has a bottom at the top? (Your legs.)"
+},
+{
+"id": "f234",
+"t": "🧩 QUICK PUZZLE",
+"x": "What word becomes shorter when you add two letters? (Short.)"
+},
+{
+"id": "f235",
+"t": "🧩 QUICK PUZZLE",
+"x": "Which is heavier: a kilo of feathers or a kilo of iron? (Neither; they weigh the same.)"
+},
+{
+"id": "f236",
+"t": "🧩 QUICK PUZZLE",
+"x": "What is so fragile that saying its name breaks it? (Silence.)"
+},
+{
+"id": "f237",
+"t": "🧩 QUICK PUZZLE",
+"x": "What has a thumb and four fingers but is not alive? (A glove.)"
+},
+{
+"id": "f238",
+"t": "🧩 QUICK PUZZLE",
+"x": "What gets wetter the more it dries? (A towel.)"
+},
+{
+"id": "f239",
+"t": "🧩 QUICK PUZZLE",
+"x": "What comes down but never goes up? (Rain.)"
+},
+{
+"id": "f240",
+"t": "🧩 QUICK PUZZLE",
+"x": "What has many rings but no fingers? (A tree.)"
+},
+{
+"id": "f241",
+"t": "🧩 QUICK PUZZLE",
+"x": "What has keys but no locks? (A piano.)"
+}
+]
