@@ -16,9 +16,11 @@ android {
     namespace = "com.lifedrop.app"
     compileSdk = 36
     defaultConfig {
-        applicationId = "com.lifedrop.daily"
-        minSdk = 26; targetSdk = 36
-        versionCode = 2; versionName = "1.0.0"
+        applicationId = "com.lifedropdaily.app"
+        minSdk = 26;
+        targetSdk = 36
+        versionCode = 3;
+        versionName = "1.0.1"
         // Google's public TEST ad IDs are used until you add your own AdMob IDs to local.properties.
         // Google Play product used for the Pro purchase. Release always uses the real product.
         buildConfigField("String", "PRO_PRODUCT_ID", "\"premium_unlock\"")

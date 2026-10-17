@@ -49,6 +49,10 @@ class MainActivity : ComponentActivity() {
         com.lifedrop.app.notify.NotifyExtras.updateOngoing(this)
         Ads.init(this)
         billing = Billing(applicationContext, prefs).also { it.connect() }
+        // Keeps the automatic backup copy up to date whenever the app leaves the screen.
+        lifecycle.addObserver(androidx.lifecycle.LifecycleEventObserver { _, e ->
+            if (e == androidx.lifecycle.Lifecycle.Event.ON_STOP) com.lifedrop.app.data.Backup.scheduleAuto(applicationContext, 0L)
+        })
         val startTab = intent?.getIntExtra("tab", 0) ?: 0
         val startScreen = intent?.getStringExtra("screen").orEmpty()
         setContent {
@@ -86,6 +90,7 @@ class MainActivity : ComponentActivity() {
                     val mainBranch = !splash && prefs.onboarded && screen.isEmpty()
                     // Android 15+ draws edge to edge: screens without a Scaffold keep clear of the status and navigation bars.
                     Box(if (mainBranch) Modifier else Modifier.safeDrawingPadding()) {
+                        if (!splash) AutoRestorePrompt(prefs) // only appears after a reinstall, when a saved copy is found
                         if (splash) Splash(animationsOn) { splash = false }
                         else if (!prefs.onboarded) Onboarding(animationsOn) { prefs.finishOnboarding(it) }
                         else if (screen.isNotEmpty()) {

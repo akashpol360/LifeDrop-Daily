@@ -95,6 +95,7 @@ fun SettingsScreen(prefs: AppPrefs, vm: AppVm, onPro: () -> Unit) {
                 Text("Reminders may arrive a few minutes late to save battery.", fontSize = 12.sp)
             }
         }
+        item { BackupTools(prefs) }
         item { PrivacyTools(journal, vm, prefs) }
     }
     if (editing.isNotEmpty()) {

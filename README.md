@@ -2,7 +2,7 @@
 
 See where you are in the year and make today count. LifeDrop Daily is a calm, private Android app that gives you one question, one small challenge and one reflection every day. It works fully offline and needs no account.
 
-- **Package name:** `com.lifedrop.daily`
+- **Package name:** `com.lifedropdaily.app`
 - **Developer:** Akash Pol
 - **Contact:** akpolstudio@gmail.com
 - **Privacy policy:** [docs/PRIVACY_POLICY.md](docs/PRIVACY_POLICY.md)
@@ -13,6 +13,7 @@ See where you are in the year and make today count. LifeDrop Daily is a calm, pr
 - Daily question, challenge and reflection (Think tab)
 - XP, streaks and sticker badges, plus a year review
 - Private journal with tags and favorites, with export and delete options
+- **Backup & Restore** (Settings): save all progress to a file and restore it after reinstalling, plus an optional automatic backup through Android Auto Backup (your own Google backup)
 - Reminder, event, festival and sky notifications, plus an optional day-count notification
 - Home-screen widgets
 - **Pro (one-time purchase):** no ads, all themes and custom fonts, unlimited events, streak protection, advanced insights and extra widgets
@@ -57,6 +58,12 @@ Never commit your `.jks` file or passwords.
 ./gradlew bundleRelease
 ```
 The signed `.aab` is created under `app/release/`. Raise `versionCode` in `app/build.gradle.kts` before every upload to Google Play. In Android Studio you can also use **Build > Generate Signed App Bundle / APK**.
+
+## Backup and restore
+- **Manual:** Settings > Backup & Restore > **Back up** saves one `.json` file (streak, XP, journal, answers, favorites, events and settings) wherever the user picks, using Android's file picker (no storage permission needed). **Restore** reads the file, checks it, shows what it contains and replaces the data on the phone in one database transaction. The Pro purchase is never part of a backup; it comes back with **Restore purchase**.
+- **Automatic:** the app keeps a copy of the same data in `files/auto_backup.json`. `res/xml/data_extraction_rules.xml` and `res/xml/backup_rules.xml` tell Android Auto Backup to save **only that file** to the user's Google backup. After a reinstall the app finds the restored copy and asks whether to use it. The switch in Settings turns the copy off and deletes it.
+- Code: `data/Backup.kt` (create, validate, restore, auto copy) and `ui/BackupUi.kt` (Settings section and the restore prompt).
+- Backup format version is `1` (`Backup.FORMAT`). Increase it if the backup contents ever change.
 
 ## Testing in-app purchases
 1. Upload the release bundle to a Play Console **Closed** or **Internal** testing track.

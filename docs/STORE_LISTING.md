@@ -2,7 +2,7 @@
 
 **Title:** LifeDrop Daily
 **Short description:** See your year, think about your life, make today count.
-**Full description:** LifeDrop Daily shows where you are in the year and gives you one question, one small challenge and one reflection each day. Earn XP and streaks, collect sticker badges, keep a private journal, count down to festivals and your own events, and add a home-screen widget. Works fully offline. No account needed.
+**Full description:** LifeDrop Daily shows where you are in the year and gives you one question, one small challenge and one reflection each day. Earn XP and streaks, collect sticker badges, keep a private journal, count down to festivals and your own events, and add a home-screen widget. Back up your progress to a file and restore it on a new phone. Works fully offline. No account needed.
 **Category:** Lifestyle
 **Screenshots needed:** Home, Think, Journal, Profile badges, Year Review, widget.
 **Developer contact email:** akpolstudio@gmail.com

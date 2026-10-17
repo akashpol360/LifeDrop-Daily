@@ -22,6 +22,7 @@ class AppVm(app: Application) : AndroidViewModel(app) {
     private fun run(block: suspend () -> Unit) = viewModelScope.launch {
         block()
         runCatching { LifeWidget().updateAll(getApplication<Application>()); StreakWidget().updateAll(getApplication<Application>()) }
+        Backup.scheduleAuto(getApplication<Application>())
     }
     fun award(date: LocalDate, type: String, points: Int) = run { dao.addXp(XpEvent("$date:$type", date.toString(), type, points)); bonus(date) }
     fun saveReflection(id: Long, date: String, text: String, mood: String, tags: String) = run {

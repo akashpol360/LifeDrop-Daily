@@ -33,6 +33,12 @@ class AppPrefs(ctx: Context) {
     fun setLastLevel(v: Int) { p.edit().putInt("lastLevel", v).apply() }
     fun lastDropAnim(): String = p.getString("dropAnim", "")!!
     fun setLastDropAnim(v: String) { p.edit().putString("dropAnim", v).apply() }
+    /** Automatic backup: keeps a small backup copy that Android can save to the user's own Google backup. */
+    var autoBackup by mutableStateOf(p.getBoolean("autoBackup", true)); private set
+    @JvmName("updateAutoBackup") fun setAutoBackup(v: Boolean) { autoBackup = v; p.edit().putBoolean("autoBackup", v).apply() }
+    /** Time (millis) of the last backup file the user saved, 0 = never. */
+    var lastManualBackup by mutableLongStateOf(p.getLong("lastManual", 0L)); private set
+    fun markManualBackup(ms: Long) { lastManualBackup = ms; p.edit().putLong("lastManual", ms).apply() }
     fun seenBadges(): Set<String> = p.getStringSet("badges", emptySet())!!.toSet()
     fun markSeen(s: Set<String>) { p.edit().putStringSet("badges", s).apply() }
 }

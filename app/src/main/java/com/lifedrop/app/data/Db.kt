@@ -48,6 +48,16 @@ val MIGRATION_1_2 = object : Migration(1, 2) {
     @Update suspend fun updateEvent(e: CustomEvent)
     @Delete suspend fun deleteEvent(e: CustomEvent)
     @Query("SELECT id FROM Favorite") fun favs(): Flow<List<String>>
+    // Backup / restore (read everything once, or write a whole backup back)
+    @Query("SELECT * FROM Reflection ORDER BY id") suspend fun reflectionList(): List<Reflection>
+    @Query("SELECT * FROM CustomEvent ORDER BY id") suspend fun eventList(): List<CustomEvent>
+    @Query("SELECT * FROM Favorite") suspend fun favList(): List<Favorite>
+    @Query("SELECT * FROM Answer") suspend fun answerList(): List<Answer>
+    @Insert(onConflict = OnConflictStrategy.REPLACE) suspend fun putReflections(l: List<Reflection>)
+    @Insert(onConflict = OnConflictStrategy.REPLACE) suspend fun putXp(l: List<XpEvent>)
+    @Insert(onConflict = OnConflictStrategy.REPLACE) suspend fun putEvents(l: List<CustomEvent>)
+    @Insert(onConflict = OnConflictStrategy.REPLACE) suspend fun putFavs(l: List<Favorite>)
+    @Insert(onConflict = OnConflictStrategy.REPLACE) suspend fun putAnswers(l: List<Answer>)
     @Insert(onConflict = OnConflictStrategy.IGNORE) suspend fun addFav(f: Favorite)
     @Query("DELETE FROM Favorite WHERE id = :id") suspend fun delFav(id: String)
 }

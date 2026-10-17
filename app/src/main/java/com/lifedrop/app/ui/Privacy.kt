@@ -21,7 +21,7 @@ fun PrivacyTools(journal: List<Reflection>, vm: AppVm, prefs: AppPrefs) {
     var ask by remember { mutableStateOf("") }
     Column(Modifier.fillMaxWidth()) {
         Text("🔒 Privacy", fontWeight = FontWeight.Bold)
-        Text("Everything stays on this phone. No account is needed.", fontSize = 12.sp)
+        Text("Everything stays on this phone unless you choose to back it up. No account is needed.", fontSize = 12.sp)
         TextButton({ ads {
             val entries = vm.reflections.value
             if (entries.isEmpty()) {

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Android 11 and older: only the small automatic backup copy is saved. -->
+<full-backup-content>
+    <include domain="file" path="auto_backup.json"/>
+</full-backup-content>

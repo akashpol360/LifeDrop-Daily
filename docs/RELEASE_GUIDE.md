@@ -14,7 +14,7 @@ ADMOB_APP_ID=ca-app-pub-XXXXXXXXXXXXXXXX~YYYYYYYYYY
 ADMOB_BANNER_ID=ca-app-pub-XXXXXXXXXXXXXXXX/ZZZZZZZZZZ
 ADMOB_INTERSTITIAL_ID=ca-app-pub-XXXXXXXXXXXXXXXX/WWWWWWWWWW
 ```
-In AdMob: add the app (Android, package `com.lifedrop.daily`), create one Banner and one Interstitial ad unit. For users in the EU/UK also set up the consent message in AdMob > Privacy & messaging. Never tap your own live ads.
+In AdMob: add the app (Android, package `com.lifedropdaily.app`), create one Banner and one Interstitial ad unit. For users in the EU/UK also set up the consent message in AdMob > Privacy & messaging. Never tap your own live ads.
 
 ## 3. Create the signing key (once) and build the bundle
 1. Android Studio > **Build > Generate Signed App Bundle / APK > Android App Bundle > Create new...** Save the `.jks` file and its passwords somewhere safe and **back it up**. Losing it means you cannot update the app without Play App Signing recovery.
@@ -27,14 +27,14 @@ Use **Play App Signing** when Play Console asks (default).
 2. **Main store listing**: use `docs/STORE_LISTING.md`, 512x512 icon, 1024x500 feature graphic, at least 2 phone screenshots (Home, Think, Journal, Calendar, Pro screen).
 3. **Privacy policy**: host `docs/PRIVACY_POLICY.md` at a public web page (GitHub Pages works) and paste the link.
 4. **App content**: Ads = **Yes, contains ads**. Target audience **13+** (not for children). Content rating questionnaire (expect Everyone / 3+). News app = No. Health = No (the mood picker is for personal journaling only).
-5. **Data safety** (suggested answers): the app itself collects no personal data and has no account. AdMob (third party, free version only) collects the **advertising ID / device identifiers** for advertising. Purchases are handled by Google Play. Data is encrypted in transit; no deletion request needed because nothing is stored on your servers.
+5. **Data safety** (suggested answers): the app itself collects no personal data and has no account. Backups: the optional automatic backup is saved by Android to the user's own Google backup, not to your servers, so you do not receive it; answer the Data safety form consistently with docs/PRIVACY_POLICY.md (data is not collected by you, backups are user-controlled and can be turned off in the app). AdMob (third party, free version only) collects the **advertising ID / device identifiers** for advertising. Purchases are handled by Google Play. Data is encrypted in transit; no deletion request needed because nothing is stored on your servers.
 6. **In-app product** (Monetize > Products > In-app products): product ID **`premium_unlock`** (must match exactly), name "LifeDrop Pro", description "Remove ads and unlock all themes, fonts, widgets and insights. One-time payment.", **price (see section 5)**, status **Active**. The product only appears after an app build with Billing 8 is uploaded to a testing track.
 7. **Testing**: Setup > License testing: add your Gmail accounts. Upload the `.aab` to **Internal testing**, install from the Play link on your phone, then check: Settings/Profile > Go Pro shows the price, Upgrade opens the Google Play sheet, buying unlocks Pro and removes ads, **Restore purchase** works after reinstall. (A build installed directly from Android Studio cannot buy, so the price will not load.)
 8. Move to **Production** with a **staged rollout** (20% first), then 100%.
 
 ## 4a. Troubleshooting: "Price unavailable" / "Loading price" on the Pro screen
 Google Play only returns the price (and allows the purchase) to an app that Play recognizes. A debug APK installed from Android Studio or a file is usually **not** recognized, so the price stays unavailable. This is expected. To see the price:
-1. In Play Console create the app with package `com.lifedrop.daily`, create the one-time product `premium_unlock`, add a **Buy** purchase option with the price and **Activate** both the purchase option and the product.
+1. In Play Console create the app with package `com.lifedropdaily.app`, create the one-time product `premium_unlock`, add a **Buy** purchase option with the price and **Activate** both the purchase option and the product.
 2. Upload the signed `.aab` (versionCode 1) to **Internal testing**, add your Gmail as a tester, publish the internal release, and install the app from the opt-in link **on a phone signed in with that Gmail**.
 3. Add the same Gmail under Settings > License testing so test purchases are free.
 4. New products can take a few hours to appear. The product ID must be exactly `premium_unlock`.
